@@ -80,5 +80,20 @@ EDGE LAYER (per-device)
 
 ---
 
+## Piattaforma Grid — Evoluzione (maggio 2026)
+
+Aggiornamento da meeting tecnico 08/05/2026 (PLAUD "Evoluzione Piattaforma Grid - HW e SW - Primo Incontro"):
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| Stack versioni | **2.2** (stable) e **2.3** (nuova, in rollout) |
+| POC attivo | **Eni Live** — primo incontro con Eni come cliente/partner del sistema Grid |
+| Focus | KPI ROI + operatività monitoring live |
+
+Nota: "Primo Incontro" con Eni Live — esplorazione del POC con ENI su piattaforma Grid.
+
+---
+
 ## Fonte
 `JarvisNEXT/knowledge-base/05_TECHNICAL/architettura.md` — `docs/ARCHITECTURE.md`
+`NDU/raw/2026-05-08_16-03_plaud-piattaforma-grid-eni-live.md`

@@ -16,7 +16,9 @@ aggiornato: 2026-05-10
 - [budget_2026.md](budget_2026.md) — budget completo 2026: 112 offerte, 6.27M EUR, 17 deal vinti
 
 ## Trattative & Commesse
-- [trattativa_parmalat.md](trattativa_parmalat.md) — pitch Parmalat, stato follow-up
+- [trattativa_parmalat.md](trattativa_parmalat.md) — pitch Parmalat, stato follow-up (aggiornato 07/05/2026)
+- [trattativa_edenred.md](trattativa_edenred.md) — nuova opportunità Edenred retail media geo/proximity (08/05/2026)
+- [trattativa_alleanza.md](trattativa_alleanza.md) — LOI Alleanza Cooperative GDO retail media in-store (08/05/2026)
 - [trattativa_qualifier.md](trattativa_qualifier.md) — new business Qualifier.it (rete schermi Next per lead gen)
 - [trattativa_unieuro.md](trattativa_unieuro.md) — pitch Unieuro 26/02/2026 (Uniting + NDU + BlueSky)
 - [ma_restore.md](ma_restore.md) — M&A Restore/Be-Ready, meeting Zanotti 13/04/2026

@@ -1,8 +1,8 @@
 ---
 tipo: contratto
-fonte: documento
+fonte: email
 confidenza: alta
-aggiornato: 2026-02-15
+aggiornato: 2026-05-10
 ---
 
 # Trattativa — Parmalat
@@ -50,14 +50,28 @@ Chi Siamo → Situation (20M famiglie, multi-brand) → Complication (PdV territ
 
 ---
 
+## Aggiornamento — 07 Maggio 2026
+
+Meeting interno di preparazione (PLAUD 07/05/2026 ore 10:40):
+- **Retail media per Parmalat**: approfondimento strategia campagne
+- **Testate di gondola**: focus su posizionamento fisico in-store (testata = estremità dello scaffale — alta visibilità)
+- **KPI di vendita**: definizione metriche sell-out e performance
+- **Orchestrazione dati**: integrazione layer dati per misurazione impatto
+
+→ Indica che la trattativa Parmalat è ancora attiva e in fase di sviluppo della proposta operativa.
+
+---
+
 ## Next Steps Aperti
 
 - [ ] Raccogliere feedback post-meeting FLU/Parmalat
-- [ ] Adeguare proposta in base a feedback
-- [ ] Preparare follow-up tecnico Post-Pitch
+- [ ] Adeguare proposta in base a feedback (+ testate di gondola + KPI sell-out)
+- [ ] Preparare follow-up tecnico Post-Pitch con proposta retail media operativa
 - [ ] Mockup totem Zymil/Chef/Santal (se richiesti)
+- [ ] Definire orchestrazione dati per misurazione campagne
 
 ---
 
 ## Fonte
 `JarvisNEXT/materiale/pitch-parmalat/STATUS_PARMALAT_PITCH.md`
+`NDU/raw/2026-05-07_10-40_plaud-parmalat-retail-media-KPI.md`

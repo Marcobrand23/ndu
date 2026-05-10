@@ -36,6 +36,15 @@ Henkel, Trenord, Q-Farma, Moby, Mediolanum, Unieuro, Parmalat, Kia, Euronics, Br
 
 ---
 
+## Nuove Trattative — Maggio 2026
+
+| Cliente | Status | Ref. pagina |
+|---------|--------|-------------|
+| **Edenred** | Esplorazione strategica retail media geo/proximity (08/05/2026) | → [trattativa_edenred.md](trattativa_edenred.md) |
+| **Alleanza Cooperative** | LOI in corso — retail media in-store GDO (08/05/2026) | → [trattativa_alleanza.md](trattativa_alleanza.md) |
+| **Eni Live** | POC piattaforma Grid — primo incontro (08/05/2026) | → [architettura.md](architettura.md) |
+
 ## Note
 - Aggiornare questa pagina dopo ogni INGEST di email/call/meeting commerciale
 - Per il dettaglio di ogni offerta, consultare CRM Monday direttamente
+- Dati pipeline quantitativi: aggiornati al 01/04/2026 — richiedono refresh CRM

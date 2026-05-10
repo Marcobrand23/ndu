@@ -7,6 +7,15 @@ aggiornato: 2026-05-10
 
 # Wiki Log — Next Different (NDU)
 
+## 2026-05-10 — Ingest email giornaliero
+
+- [INGEST] email 2026-05-10: 9 email rilevanti (account2: 1, account3: 8)
+  - ndu: 9 email → pagine toccate: trattativa_parmalat.md, bu_data_retail.md, architettura.md, pipeline.md, index.md
+  - pagine create: trattativa_edenred.md, trattativa_alleanza.md
+  - Allegati salvati: nessuno
+  - Nuovi prospect: Edenred (retail media geo/proximity), Alleanza Cooperative (LOI GDO), Eni Live (POC Grid)
+  - Partnership in esplorazione: Var Group, Plum
+
 ## 2026-05-10 (sessione 3 — INGEST W09 prep-sheets)
 - [INGEST] prep-sheets-w09-2026.md (PERSONALASSISTANT/output) → pagine create:
   - cliente_calgon.md (allineamento cross-unit 23/02 con Cozzi/EMG Different/Axentha)
