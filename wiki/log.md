@@ -7,7 +7,18 @@ aggiornato: 2026-05-10
 
 # Wiki Log — Next Different (NDU)
 
-## 2026-05-10 (update)
+## 2026-05-10 (sessione 3 — INGEST W09 prep-sheets)
+- [INGEST] prep-sheets-w09-2026.md (PERSONALASSISTANT/output) → pagine create:
+  - cliente_calgon.md (allineamento cross-unit 23/02 con Cozzi/EMG Different/Axentha)
+  - trattativa_qualifier.md (pranzo 24/02 Felix Ciniglio — rete schermi Next per lead gen)
+  - cliente_durante.md (call Ale-Marco 24/02 — retail media GDO, Conad Adriatico)
+  - trattativa_unieuro.md (presentazione 26/02 BIM Milano — Uniting + NDU + BlueSky)
+  - partnership_accenture.md (meeting 26/02 — Zanotti Accenture + Sampietro Kiwi)
+- [INGEST] integrazioni_tecniche.md — tenant ID NDU su DB / Pinecone / Monday / Calendar / Drive. Fonte: PERSONALASSISTANT/docs/database.md
+- [UPDATE] azienda.md — aggiunta sezione "Logistica settimanale Marco Brandstetter" (Mar/Mer Milano)
+- [UPDATE] index.md — aggiunte sezioni "Clienti attivi", "Partnership"; aggiunta `integrazioni_tecniche.md` in Tecnico
+
+## 2026-05-10 (sessione 2 — budget)
 - [INGEST] budget_2026.md — 112 offerte, 6.27M EUR pipeline, 17 deal vinti. Fonte: nextdifferent_budget/offerte_2026_raw.json
 
 ## 2026-05-10

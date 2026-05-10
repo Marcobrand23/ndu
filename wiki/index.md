@@ -17,7 +17,16 @@ aggiornato: 2026-05-10
 
 ## Trattative & Commesse
 - [trattativa_parmalat.md](trattativa_parmalat.md) — pitch Parmalat, stato follow-up
+- [trattativa_qualifier.md](trattativa_qualifier.md) — new business Qualifier.it (rete schermi Next per lead gen)
+- [trattativa_unieuro.md](trattativa_unieuro.md) — pitch Unieuro 26/02/2026 (Uniting + NDU + BlueSky)
 - [ma_restore.md](ma_restore.md) — M&A Restore/Be-Ready, meeting Zanotti 13/04/2026
+
+## Clienti attivi
+- [cliente_calgon.md](cliente_calgon.md) — gestione cross-unit (EMG Different + Axentha)
+- [cliente_durante.md](cliente_durante.md) — retail media GDO 2026 (Conad Adriatico)
+
+## Partnership
+- [partnership_accenture.md](partnership_accenture.md) — partnership esplorativa NDU × Accenture × Kiwi Digital
 
 ## Prodotti
 - [conversational_signage.md](conversational_signage.md) — Digital signage conversazionale
@@ -30,6 +39,7 @@ aggiornato: 2026-05-10
 
 ## Tecnico
 - [architettura.md](architettura.md) — Stack tecnologico, architettura sistema
+- [integrazioni_tecniche.md](integrazioni_tecniche.md) — Tenant ID NDU su sistemi multi-tenant (DB, Pinecone, Monday, Calendar/Drive)
 
 ## Operations
 - [operations.md](operations.md) — Modelli business, preventivazione, ROI calculator

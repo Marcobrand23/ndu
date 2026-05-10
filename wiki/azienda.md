@@ -51,6 +51,16 @@ Modello basato sull'integrazione di competenze e asset ("uniti per evolvere"). N
 | **Sassari** | Hub/Sede |
 | **Madrid** | Sede internazionale |
 
+### Logistica settimanale Marco Brandstetter
+
+| Giorno | Default | Note |
+|--------|---------|------|
+| Lun | Verona (BlueSky, Via del Perlar 2) | |
+| **Mar** | **Milano (NDU, Via Tortona 37)** | Operatività NDU |
+| **Mer** | **Milano (NDU, Via Tortona 37)** | Operatività NDU |
+| Gio | Flessibile (default Verona) | Ottimizzabile in base a meeting |
+| Ven | Verona (BlueSky) | |
+
 ### Asset e Strutture
 - 2 studi di produzione, casa di produzione
 - Research lab, istituto di ricerche di mercato
