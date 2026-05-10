@@ -13,6 +13,7 @@ aggiornato: 2026-05-10
 ## BU Data & Retail
 - [bu_data_retail.md](bu_data_retail.md) — team, numeri chiave, prodotti BU
 - [pipeline.md](pipeline.md) — pipeline commerciale attiva (dati al 01/04/2026)
+- [budget_2026.md](budget_2026.md) — budget completo 2026: 112 offerte, 6.27M EUR, 17 deal vinti
 
 ## Trattative & Commesse
 - [trattativa_parmalat.md](trattativa_parmalat.md) — pitch Parmalat, stato follow-up

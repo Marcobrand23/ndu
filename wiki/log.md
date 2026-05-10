@@ -7,6 +7,9 @@ aggiornato: 2026-05-10
 
 # Wiki Log — Next Different (NDU)
 
+## 2026-05-10 (update)
+- [INGEST] budget_2026.md — 112 offerte, 6.27M EUR pipeline, 17 deal vinti. Fonte: nextdifferent_budget/offerte_2026_raw.json
+
 ## 2026-05-10
 - [INGEST] bu_data_retail.md — team, numeri chiave BU al 01/04/2026. Fonte: PIANO_LAVORO_BU_DATA_RETAIL_2026.md
 - [INGEST] pipeline.md — pipeline commerciale 180K EUR, 16 clienti in trattativa. Fonte: CRM Monday
