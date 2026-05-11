@@ -2,7 +2,7 @@
 tipo: stato
 fonte: email
 confidenza: alta
-aggiornato: 2026-05-10
+aggiornato: 2026-05-11
 ---
 
 # BU Data & Retail — Next Different
@@ -67,6 +67,23 @@ Board **"Progetti/Gare"**: ID `2126709061` — workspace Next Different (ID: `48
 ---
 
 ## Aggiornamenti — Maggio 2026
+
+### Sessione 05-06 — IA, Trasformazione Aziendale e Sponsorizzazioni Sportive
+
+Da meeting "Punto progetti e gestione flussi" (06/05/2026 ore 15:36):
+- **IA e Trasformazione Aziendale**: discussione sull'impatto dell'IA sui processi e sulla struttura organizzativa NDU
+- **Sponsorizzazioni sportive**: esplorazione come filone di business/partnership (si collega al framework EXPERIENCE → Sport Sponsorship)
+- **Gestione flussi**: allineamento su struttura operativa e gestione progetti BU
+
+→ *Riferimento a* [azienda.md](azienda.md) (framework EXPERIENCE → Sport Sponsorship)
+
+### Meeting imminente — BB-MB D&R (12/05/2026)
+
+- **Data**: Martedì 12 Maggio 2026, 14:00–15:45 (CEST)
+- **Partecipanti**: Giuseppe Banchini (BB) ↔ Marco Brandstetter (MB)
+- **Topic**: "D&R" (probabile: Data & Retail)
+- **Piattaforma**: Google Meet
+- Invito aggiornato ricevuto il 10/05/2026 → agenda non ancora specificata
 
 ### 1:1 BB-MB (07/05/2026) — governance BU e nuove partnership
 

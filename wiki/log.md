@@ -2,10 +2,20 @@
 tipo: log
 fonte: manuale
 confidenza: alta
-aggiornato: 2026-05-10
+aggiornato: 2026-05-11
 ---
 
 # Wiki Log — Next Different (NDU)
+
+## 2026-05-11 — Ingest email giornaliero
+
+- [INGEST] email 2026-05-11: 5 email PLAUD rilevanti (account3) + 1 meeting invite (account2)
+  - ndu: 6 email totali → pagine toccate: bu_data_retail.md
+  - Note: raw/ già popolata da sessione precedente (tutti i file già presenti)
+  - Nuovi aggiornamenti wiki: sessione 05-06 IA+sponsorizzazioni sportive, meeting BB-MB D&R 12/05
+  - Newsletter account2 (The Grocer): 2 scartate (List-Unsubscribe)
+  - Account1 (bluesky), account4 (ambra): nessuna email rilevante
+  - Allegati salvati: nessuno
 
 ## 2026-05-10 — Ingest email giornaliero
 
