@@ -2,10 +2,19 @@
 tipo: log
 fonte: manuale
 confidenza: alta
-aggiornato: 2026-05-11
+aggiornato: 2026-05-12
 ---
 
 # Wiki Log — Next Different (NDU)
+
+## 2026-05-12 — Ingest email giornaliero
+
+- [INGEST] email 2026-05-11/12: 19 email rilevanti (account2 nextdifferent: 12, account3 personal PLAUD: 4, account3 NDU-related: 3)
+  - ndu: 19 email totali → pagine create: trattativa_costa_crociere_fidia.md, partnership_mcube_uniting.md
+  - ndu: pagine aggiornate: trattativa_parmalat.md (★ LOI verde), pipeline.md, index.md
+  - Temi principali: Parmalat LOI confermata, Costa Crociere x Fidia deal, MCube+Uniting intro, LG followup, Game On speakers
+  - Raw salvati: 7 file (parmalat-call-loi, costa-crociere-fidia, lg-nextdifferent, uniting-mcube-intro, plaud ×3)
+  - Allegati salvati: nessuno
 
 ## 2026-05-11 — Ingest email giornaliero
 

@@ -16,7 +16,8 @@ aggiornato: 2026-05-10
 - [budget_2026.md](budget_2026.md) — budget completo 2026: 112 offerte, 6.27M EUR, 17 deal vinti
 
 ## Trattative & Commesse
-- [trattativa_parmalat.md](trattativa_parmalat.md) — pitch Parmalat, stato follow-up (aggiornato 07/05/2026)
+- [trattativa_parmalat.md](trattativa_parmalat.md) — ★ Call positiva 11/05 — LOI in preparazione
+- [trattativa_costa_crociere_fidia.md](trattativa_costa_crociere_fidia.md) — Costa Crociere x Fidia, ND facilitatore (meeting 11/05/2026)
 - [trattativa_edenred.md](trattativa_edenred.md) — nuova opportunità Edenred retail media geo/proximity (08/05/2026)
 - [trattativa_alleanza.md](trattativa_alleanza.md) — LOI Alleanza Cooperative GDO retail media in-store (08/05/2026)
 - [trattativa_qualifier.md](trattativa_qualifier.md) — new business Qualifier.it (rete schermi Next per lead gen)
@@ -29,6 +30,7 @@ aggiornato: 2026-05-10
 
 ## Partnership
 - [partnership_accenture.md](partnership_accenture.md) — partnership esplorativa NDU × Accenture × Kiwi Digital
+- [partnership_mcube_uniting.md](partnership_mcube_uniting.md) — intro MCube Digital + Uniting via Zanotti (11/05/2026)
 
 ## Prodotti
 - [conversational_signage.md](conversational_signage.md) — Digital signage conversazionale
@@ -49,4 +51,4 @@ aggiornato: 2026-05-10
 ## Brand
 - [brand.md](brand.md) — Brand identity, colori, linee guida
 
-*Aggiornato: 2026-05-10*
+*Aggiornato: 2026-05-12*

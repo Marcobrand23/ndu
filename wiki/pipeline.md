@@ -31,7 +31,7 @@ Henkel, Trenord, Q-Farma, Moby, Mediolanum, Unieuro, Parmalat, Kia, Euronics, Br
 
 | Cliente | Status | Ref. pagina |
 |---------|--------|-------------|
-| **Parmalat** | Pitch preparato, meeting FLU 16/02/2026 | → [trattativa_parmalat.md](trattativa_parmalat.md) |
+| **Parmalat** | ★ Call positiva 11/05 — LOI in preparazione | → [trattativa_parmalat.md](trattativa_parmalat.md) |
 | **Restore / Be-Ready** | Meeting M&A 13/04/2026 con Zanotti | → [ma_restore.md](ma_restore.md) |
 
 ---
@@ -43,6 +43,8 @@ Henkel, Trenord, Q-Farma, Moby, Mediolanum, Unieuro, Parmalat, Kia, Euronics, Br
 | **Edenred** | Esplorazione strategica retail media geo/proximity (08/05/2026) | → [trattativa_edenred.md](trattativa_edenred.md) |
 | **Alleanza Cooperative** | LOI in corso — retail media in-store GDO (08/05/2026) | → [trattativa_alleanza.md](trattativa_alleanza.md) |
 | **Eni Live** | POC piattaforma Grid — primo incontro (08/05/2026) | → [architettura.md](architettura.md) |
+| **Costa Crociere x Fidia** | Meeting 11/05 — NDA in corso, ND facilitatore | → [trattativa_costa_crociere_fidia.md](trattativa_costa_crociere_fidia.md) |
+| **MCube Digital + Uniting** | Intro organizzata via Zanotti 11/05 — meeting da fissare | → [partnership_mcube_uniting.md](partnership_mcube_uniting.md) |
 
 ## Note
 - Aggiornare questa pagina dopo ogni INGEST di email/call/meeting commerciale

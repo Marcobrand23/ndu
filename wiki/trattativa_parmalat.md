@@ -2,12 +2,12 @@
 tipo: contratto
 fonte: email
 confidenza: alta
-aggiornato: 2026-05-10
+aggiornato: 2026-05-11
 ---
 
 # Trattativa — Parmalat
 
-## Stato: Pitch presentato — follow-up aperto
+## Stato: Call positiva 11/05 — LOI in preparazione
 
 | Campo | Valore |
 |-------|--------|
@@ -58,15 +58,28 @@ Meeting interno di preparazione (PLAUD 07/05/2026 ore 10:40):
 - **KPI di vendita**: definizione metriche sell-out e performance
 - **Orchestrazione dati**: integrazione layer dati per misurazione impatto
 
-→ Indica che la trattativa Parmalat è ancora attiva e in fase di sviluppo della proposta operativa.
+## Aggiornamento — 11 Maggio 2026 ★★★
+
+**Mattina**: revisione presentazione e offerta (PLAUD tuning session ore 09:46)
+
+**Call con Parmalat andata bene** (Fabio Berra, ore ~14:00):
+> "La call con Parmalat è andata bene e ha dato disponibilità a creare un doc che vada nella
+> direzione della LOI in cui elenchiamo i requisiti che deve avere una soluzione retail media."
+
+**Risposta Alessio Di Domizio (Durante)**:
+> "Ottima notizia. Vogliamo standardizzare internamente i requirements così che diventino
+> contemporaneamente parte delle presentazioni e delle LOI che auspicabilmente ne [seguono]."
+
+→ **Parmalat ha dato verde alla LOI.** Durante vuole standardizzare i requirements.
 
 ---
 
 ## Next Steps Aperti
 
-- [ ] Raccogliere feedback post-meeting FLU/Parmalat
-- [ ] Adeguare proposta in base a feedback (+ testate di gondola + KPI sell-out)
-- [ ] Preparare follow-up tecnico Post-Pitch con proposta retail media operativa
+- [x] ~~Raccogliere feedback post-meeting FLU/Parmalat~~ → Call andata bene 11/05
+- [ ] **Creare documento requirements** per soluzione retail media (base per presentazioni + LOI)
+- [ ] Standardizzare requirements con Durante (Alessio Di Domizio)
+- [ ] Redigere LOI formale
 - [ ] Mockup totem Zymil/Chef/Santal (se richiesti)
 - [ ] Definire orchestrazione dati per misurazione campagne
 
@@ -75,3 +88,5 @@ Meeting interno di preparazione (PLAUD 07/05/2026 ore 10:40):
 ## Fonte
 `JarvisNEXT/materiale/pitch-parmalat/STATUS_PARMALAT_PITCH.md`
 `NDU/raw/2026-05-07_10-40_plaud-parmalat-retail-media-KPI.md`
+`NDU/raw/2026-05-11_parmalat-call-loi.md`
+`NDU/raw/2026-05-11_plaud-parmalat-presentazione.md`
