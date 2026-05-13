@@ -1,8 +1,8 @@
 ---
 tipo: entità
 fonte: email
-confidenza: media
-aggiornato: 2026-05-11
+confidenza: alta
+aggiornato: 2026-05-12
 ---
 
 # Partnership — MCube Digital + Uniting (via Zanotti)
@@ -38,8 +38,28 @@ Zanotti ha confermato che le parti si erano già contattate in precedenza.
 
 ---
 
+---
+
+## Aggiornamento — 12 Maggio 2026
+
+Confermato che Uniting è già operativa con ND su più fronti:
+
+| Progetto | Referente Uniting | Status |
+|----------|------------------|--------|
+| Valsoia 27/05 — Data+Targeting | Elisa Brancaleone, Davide Agarossi, Luca Colombi | Presentazione in preparazione |
+| Electrolux Store-in-Store gara | Elisa Brancaleone, Giancarlo Sampietro | Nuova opportunità |
+| Piano Retail Media PGH (Pharma-Green) | Luca Colombi | Next steps concordati |
+
+Uniting ha altri contatti rispetto al filone MCube: Elisa Brancaleone, Davide Agarossi, Giancarlo Sampietro (kiwidigital.it — settimanale data retail tech 22/05).
+
+---
+
 ## Riferimento a
 *Riferimento a* → [partnership_accenture.md](partnership_accenture.md) (Alessandro Zanotti = Accenture)
+*Riferimento a* → [trattativa_valsoia.md](trattativa_valsoia.md)
+*Riferimento a* → [trattativa_electrolux.md](trattativa_electrolux.md)
 
 ## Fonte
 `NDU/raw/2026-05-11_uniting-mcube-intro.md`
+`NDU/raw/email/2026-05-12_valsoia-presentazione-2705.md`
+`NDU/raw/email/2026-05-12_electrolux-store-in-store-opportunita.md`

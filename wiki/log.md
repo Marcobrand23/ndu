@@ -2,10 +2,20 @@
 tipo: log
 fonte: manuale
 confidenza: alta
-aggiornato: 2026-05-12
+aggiornato: 2026-05-13
 ---
 
 # Wiki Log — Next Different (NDU)
+
+## 2026-05-13 — Ingest email giornaliero
+
+- [INGEST] email 2026-05-12: 18 email rilevanti (account2 nextdifferent: 18)
+  - ndu: 18 email totali
+  - pagine create: trattativa_valsoia.md, trattativa_barilla.md, trattativa_electrolux.md, trattativa_apple_att.md
+  - pagine aggiornate: pipeline.md (Valsoia/Barilla/Electrolux/Apple ATT/Skipass/PGH), partnership_mcube_uniting.md, index.md
+  - Temi principali: Valsoia presentazione 27/05 Bologna (con Uniting), Barilla follow-up positivo, Electrolux gara Store-in-Store, Apple ATT meeting 20/05, Skipass Livigno offerta firmata, Game On Padova, Alesca PMO integrazione, IAB Retail Media Safari, GRS Ventures dati, DWF social
+  - Raw salvati: 13 file (email/)
+  - Allegati salvati: nessuno (allegati grandi non scaricati)
 
 ## 2026-05-12 — Ingest email giornaliero
 

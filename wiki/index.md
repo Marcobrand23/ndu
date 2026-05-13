@@ -2,7 +2,7 @@
 tipo: indice
 fonte: manuale
 confidenza: alta
-aggiornato: 2026-05-10
+aggiornato: 2026-05-12
 ---
 
 # Wiki Index — Next Different (NDU)
@@ -17,6 +17,10 @@ aggiornato: 2026-05-10
 
 ## Trattative & Commesse
 - [trattativa_parmalat.md](trattativa_parmalat.md) — ★ Call positiva 11/05 — LOI in preparazione
+- [trattativa_valsoia.md](trattativa_valsoia.md) — ★ Presentazione 27/05 Bologna (Data+Targeting) — con Uniting
+- [trattativa_barilla.md](trattativa_barilla.md) — Follow-up positivo meeting 30/04 (Next14 + EMG)
+- [trattativa_electrolux.md](trattativa_electrolux.md) — Gara Store-in-Store con Uniting (12/05/2026)
+- [trattativa_apple_att.md](trattativa_apple_att.md) — Apple ATT con Fideres — meeting 20/05/2026
 - [trattativa_costa_crociere_fidia.md](trattativa_costa_crociere_fidia.md) — Costa Crociere x Fidia, ND facilitatore (meeting 11/05/2026)
 - [trattativa_edenred.md](trattativa_edenred.md) — nuova opportunità Edenred retail media geo/proximity (08/05/2026)
 - [trattativa_alleanza.md](trattativa_alleanza.md) — LOI Alleanza Cooperative GDO retail media in-store (08/05/2026)

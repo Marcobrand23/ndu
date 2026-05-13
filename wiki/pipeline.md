@@ -2,7 +2,7 @@
 tipo: stato
 fonte: documento
 confidenza: media
-aggiornato: 2026-04-01
+aggiornato: 2026-05-12
 ---
 
 # Pipeline Commerciale — BU Data & Retail
@@ -45,6 +45,17 @@ Henkel, Trenord, Q-Farma, Moby, Mediolanum, Unieuro, Parmalat, Kia, Euronics, Br
 | **Eni Live** | POC piattaforma Grid — primo incontro (08/05/2026) | → [architettura.md](architettura.md) |
 | **Costa Crociere x Fidia** | Meeting 11/05 — NDA in corso, ND facilitatore | → [trattativa_costa_crociere_fidia.md](trattativa_costa_crociere_fidia.md) |
 | **MCube Digital + Uniting** | Intro organizzata via Zanotti 11/05 — meeting da fissare | → [partnership_mcube_uniting.md](partnership_mcube_uniting.md) |
+
+## Trattative — 12 Maggio 2026
+
+| Cliente | Status | Ref. pagina |
+|---------|--------|-------------|
+| **Valsoia** | Presentazione 27/05 Bologna (Data+Targeting) — con Uniting | → [trattativa_valsoia.md](trattativa_valsoia.md) |
+| **Barilla** | ✅ Risposta positiva follow-up meeting 30/04 | → [trattativa_barilla.md](trattativa_barilla.md) |
+| **Electrolux** | Nuova gara Store-in-Store — con Uniting | → [trattativa_electrolux.md](trattativa_electrolux.md) |
+| **Apple ATT / Fideres** | Meeting confermato 20/05 ore 16:00 | → [trattativa_apple_att.md](trattativa_apple_att.md) |
+| **Skipass Livigno** | ✅ Offerta OE firmata e restituita 12/05/2026 (ref: Fabio Berra) | — |
+| **Pharma-Green** | Piano Retail Media farmacie — next steps concordati con Uniting | — |
 
 ## Note
 - Aggiornare questa pagina dopo ogni INGEST di email/call/meeting commerciale
