@@ -1,8 +1,8 @@
 ---
 tipo: contratto
 fonte: email
-confidenza: media
-aggiornato: 2026-05-12
+confidenza: alta
+aggiornato: 2026-05-14
 ---
 
 # Trattativa Electrolux — Store-in-Store Gara
@@ -26,11 +26,24 @@ Electrolux ha invitato ND a partecipare a una gara per il rifacimento del loro S
 
 ---
 
+## Aggiornamento — 13/05/2026
+
+**Brief Electrolux confermato per venerdì 15/05/2026 ore 16:00** (videocall):
+- Marco Cagnazzi ha fatto recap interno prima del meeting
+- Il cliente presenterà direttamente l'opportunità durante il meeting
+- Coinvolto team Data & Retail
+- Partner Uniting: Elisa Brancaleone, Giancarlo Sampietro, Amanda Frascolla
+- Coinvolto anche Jarvis ND
+- Luca Cavalli presente per ND
+
+---
+
 ## Next Steps
 
-- [ ] Capire il brief completo della gara Electrolux
-- [ ] Definire approccio ND + Uniting per la risposta
-- [ ] Fissare call di allineamento
+- [x] ~~Capire il brief completo della gara~~ → brief dal cliente venerdì 15/05 ore 16:00
+- [x] ~~Fissare call di allineamento~~ → confermata per 15/05 ore 16:00
+- [ ] **Meeting con Electrolux 15/05/2026 ore 16:00** (videocall)
+- [ ] Post-meeting: definire approccio ND + Uniting per la risposta alla gara
 
 ---
 

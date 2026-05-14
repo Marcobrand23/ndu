@@ -51,8 +51,9 @@ aggiornato: 2026-05-12
 
 ## Operations
 - [operations.md](operations.md) — Modelli business, preventivazione, ROI calculator
+- [piattaforma_unificata_pmo.md](piattaforma_unificata_pmo.md) — Dashboard PMO Vercel+Supabase, rollout in corso (13/05/2026)
 
 ## Brand
 - [brand.md](brand.md) — Brand identity, colori, linee guida
 
-*Aggiornato: 2026-05-12*
+*Aggiornato: 2026-05-14*

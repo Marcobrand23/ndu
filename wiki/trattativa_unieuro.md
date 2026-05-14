@@ -1,13 +1,13 @@
 ---
 tipo: contratto
-fonte: riunione
+fonte: email
 confidenza: alta
-aggiornato: 2026-02-26
+aggiornato: 2026-05-14
 ---
 
 # Trattativa — Unieuro
 
-## Stato: Pitch in corso — presentazione 26/02/2026
+## Stato: Attività operative in corso — PDV Verona con problemi
 
 Presentazione cliente Unieuro presso BIM Milano (Sala Board), in presenza con il referente Titi. Posizionamento del gruppo **Uniting + NDU + BlueSky**. Contesto legato ad attività con Bip/Officina per interview e possibile coinvolgimento Percassi Retail.
 
@@ -46,6 +46,16 @@ Presentazione cliente Unieuro presso BIM Milano (Sala Board), in presenza con il
   - [ ] Materiale/slide se richiesto
   - [ ] Logistica: BIM Milano, Sala Board, orario arrivo
   - [ ] Dress code: business
+
+---
+
+## Aggiornamento Operativo — 13/05/2026
+
+**Intervento non riuscito PDV Unieuro Verona Via Cappello**:
+- L'intervento tecnico del 13/05 è fallito a causa delle condizioni in cui è stata rinvenuta la vetrina
+- Davide Campilongo ha documentato con foto/video su Drive
+- Informati: Francesco Bacchelli, Marco Brandstetter, Enrica Matteucci, Adriano Lionetti
+- Next step: rivalutare stato vetrina e pianificare nuovo intervento
 
 ---
 

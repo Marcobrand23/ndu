@@ -1,8 +1,8 @@
 ---
 tipo: stato
-fonte: riunione
+fonte: email
 confidenza: alta
-aggiornato: 2026-02-24
+aggiornato: 2026-05-14
 ---
 
 # Cliente — Durante (Retail Media GDO)
@@ -46,6 +46,22 @@ Programma retail media 2026 con Durante, che include diverse insegne della GDO. 
   - [ ] Rileggere email Berra su Conad Adriatico
   - [ ] Status update progetti retail media attivi
   - [ ] Dati di performance recenti
+
+---
+
+## Grid POC Enilive — 13/05/2026
+
+Nuovo POC del prodotto **Retail Media Grid** presso un punto vendita **Enilive (Roma)**:
+
+| Campo | Valore |
+|-------|--------|
+| Referente Durante | Gabriele Camarda (GCamarda@durante.it) |
+| Referente ND | Giovanni Cavatorta, Francesco Boano |
+| PdV | Enilive Roma |
+| Connettività misurata | 168 Mbps download, 19 Mbps upload (WiFi) → OTTIMALE |
+| Obiettivo | Chiudere stack HW entro settimana 20/05/2026 |
+
+**Status 13/05**: connettività verificata, hardware da finalizzare.
 
 ---
 

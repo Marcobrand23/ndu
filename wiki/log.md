@@ -7,6 +7,16 @@ aggiornato: 2026-05-13
 
 # Wiki Log — Next Different (NDU)
 
+## 2026-05-14 — Ingest email giornaliero
+
+- [INGEST] email 2026-05-13: 12 email rilevanti (account2 nextdifferent: 12)
+  - ndu: 12 email totali
+  - pagine create: piattaforma_unificata_pmo.md
+  - pagine aggiornate: trattativa_electrolux.md (meeting 15/05 ore 16:00 + brief), trattativa_parmalat.md (meeting Conad 15/05 + follow-up slides 14/05), cliente_durante.md (Grid POC Enilive Roma), trattativa_unieuro.md (intervento fallito PDV Verona), index.md
+  - Temi principali: Electrolux meeting venerdì 15/05 ore 16 (brief gara), Parmalat retail media Conad meeting 15/05 + slides con Durante, Piattaforma PMO Vercel rollout, Grid POC Enilive connettività OK 168/19Mbps, PDV Unieuro Verona Via Cappello intervento fallito, BricoIO legal quasi concluso, Budget Teche approvato, meeting Mazzi 14/05 e Retail Media Tech 25/05
+  - Raw salvati: 9 file (email/)
+  - Allegati salvati: nessuno
+
 ## 2026-05-13 — Ingest email giornaliero
 
 - [INGEST] email 2026-05-12: 18 email rilevanti (account2 nextdifferent: 18)

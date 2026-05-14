@@ -2,7 +2,7 @@
 tipo: contratto
 fonte: email
 confidenza: alta
-aggiornato: 2026-05-11
+aggiornato: 2026-05-14
 ---
 
 # Trattativa — Parmalat
@@ -74,11 +74,26 @@ Meeting interno di preparazione (PLAUD 07/05/2026 ore 10:40):
 
 ---
 
+## Aggiornamento — 13/05/2026
+
+**Meeting Parmalat + Retail media Conad confermato 15/05/2026 ore 15:00-16:00 (Microsoft Teams)**:
+- Fabio Berra ha accettato l'invito
+- Focus: retail media in Conad
+
+**Follow-up presentazione 11/05** — Fabio Berra → Alessio Di Domizio (Durante):
+- Accordo per lavorare a 4 mani sulle slides con gli spunti condivisi da Alessio con Marco
+- Check proposto per pomeriggio 14/05
+- Team: Fabio Berra (ND), Alessio Di Domizio (Durante), Matteo Cozzi, Annachiara Orlandini, Matteo Sangalli
+
+---
+
 ## Next Steps Aperti
 
 - [x] ~~Raccogliere feedback post-meeting FLU/Parmalat~~ → Call andata bene 11/05
+- [x] ~~Standardizzare requirements con Durante~~ → Alessio Di Domizio e Fabio Berra al lavoro sulle slides
+- [ ] **Check slides Fabio + Alessio** — 14/05 pomeriggio
+- [ ] **Meeting Parmalat Retail media Conad — 15/05/2026 ore 15:00** (Teams)
 - [ ] **Creare documento requirements** per soluzione retail media (base per presentazioni + LOI)
-- [ ] Standardizzare requirements con Durante (Alessio Di Domizio)
 - [ ] Redigere LOI formale
 - [ ] Mockup totem Zymil/Chef/Santal (se richiesti)
 - [ ] Definire orchestrazione dati per misurazione campagne
