@@ -11,10 +11,10 @@
             "id": "bf950e1327c323bc",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
             }
           }
         ]
@@ -178,6 +178,12 @@
   },
   "active": "bf950e1327c323bc",
   "lastOpenFiles": [
+    "wiki/trattativa_unieuro.md",
+    "wiki/trattativa_qualifier.md",
+    "wiki/partnership_accenture.md",
+    "wiki/integrazioni_tecniche.md",
+    "wiki/cliente_durante.md",
+    "wiki/cliente_calgon.md",
     "wiki/budget_2026.md",
     "wiki/ma_restore.md",
     "wiki/trattativa_parmalat.md",
