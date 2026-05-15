@@ -2,7 +2,8 @@
 tipo: indice
 fonte: manuale
 confidenza: alta
-aggiornato: 2026-05-12
+aggiornato: 2026-06-02
+
 ---
 
 # Wiki Index — Next Different (NDU)
@@ -12,6 +13,7 @@ aggiornato: 2026-05-12
 
 ## BU Data & Retail
 - [bu_data_retail.md](bu_data_retail.md) — team, numeri chiave, prodotti BU
+- [business_data_ai.md](business_data_ai.md) — ★ linea di business AI Data Access Platform (pivot DaaS-AI)
 - [pipeline.md](pipeline.md) — pipeline commerciale attiva (dati al 01/04/2026)
 - [budget_2026.md](budget_2026.md) — budget completo 2026: 112 offerte, 6.27M EUR, 17 deal vinti
 
@@ -42,23 +44,29 @@ aggiornato: 2026-05-12
 
 ## Prodotti
 - [conversational_signage.md](conversational_signage.md) — Digital signage conversazionale
-- [retail_media_grid.md](retail_media_grid.md) — Retail Media Grid
-- [monetizzazione_dati.md](monetizzazione_dati.md) — Monetizzazione dati retail
+- [retail_media_grid.md](retail_media_grid.md) — Retail Media Grid (moduli MEASURE/ENGAGE/MONETIZE, architettura AWS+edge)
+- [monetizzazione_dati.md](monetizzazione_dati.md) — Monetizzazione dati retail (Feed Mobilità, Footfall, Segmenti Audience)
 
 ## Pricing & Sales
 - [pricing.md](pricing.md) — Fasce, listino, regole commerciali
-- [sales.md](sales.md) — Case studies, libreria RFP
+- [sales.md](sales.md) — Case studies, KPI, risultati
+- [rfp_library.md](rfp_library.md) — 80 Q&A pronte per RFP/gare (azienda, prodotti, pricing, dati, legal)
 
 ## Tecnico
 - [architettura.md](architettura.md) — Stack tecnologico, architettura sistema
+- [sensoristica.md](sensoristica.md) — CAM, WiFi, BLE: specifiche, kit, calibrazione, manutenzione
+- [privacy_gdpr.md](privacy_gdpr.md) — Privacy by Design, GDPR, ruoli, DPA, FAQ cliente
 - [integrazioni_tecniche.md](integrazioni_tecniche.md) — Tenant ID NDU su sistemi multi-tenant (DB, Pinecone, Monday, Calendar/Drive)
 
 ## Operations
-- [operations.md](operations.md) — Modelli business, preventivazione, ROI calculator
+- [operations.md](operations.md) — Overview modelli business, preventivazione, ROI calculator
+- [modelli_business.md](modelli_business.md) — Direct, Revenue Share, Reservation, DMP: dettaglio e confronto
+- [roi_calculator.md](roi_calculator.md) — Formule ROI, scenari tipici, break-even, parametri riferimento
+- [preventivazione.md](preventivazione.md) — Flusso 6-step, regole pricing, struttura documento, checklist
 - [piattaforma_unificata_pmo.md](piattaforma_unificata_pmo.md) — Dashboard PMO Vercel+Supabase, rollout in corso (13/05/2026)
 - [imu_2026.md](imu_2026.md) — ⚠️ Acconto IMU 2026, scadenza 16 giugno 2026 (Studio Zamboni)
 
 ## Brand
 - [brand.md](brand.md) — Brand identity, colori, linee guida
 
-*Aggiornato: 2026-05-23*
+*Aggiornato: 2026-06-02*

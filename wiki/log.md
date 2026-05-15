@@ -2,7 +2,7 @@
 tipo: log
 fonte: manuale
 confidenza: alta
-aggiornato: 2026-05-25
+aggiornato: 2026-06-02
 ---
 
 # Wiki Log — Next Different (NDU)
@@ -172,6 +172,31 @@ aggiornato: 2026-05-25
   - Temi principali: Electrolux meeting venerdì 15/05 ore 16 (brief gara), Parmalat retail media Conad meeting 15/05 + slides con Durante, Piattaforma PMO Vercel rollout, Grid POC Enilive connettività OK 168/19Mbps, PDV Unieuro Verona Via Cappello intervento fallito, BricoIO legal quasi concluso, Budget Teche approvato, meeting Mazzi 14/05 e Retail Media Tech 25/05
   - Raw salvati: 9 file (email/)
   - Allegati salvati: nessuno
+
+## 2026-05-15 — INGEST JarvisNEXT knowledge-base (8 pagine)
+
+- [INGEST] `rfp_library.md` — 80 Q&A pronte per RFP/gare, 7 categorie (azienda, prodotti, pricing, dati, tecnica, risultati, legal)
+- [INGEST] `modelli_business.md` — Direct / Revenue Share / Reservation / DMP: dettaglio, confronto, combinazioni consigliate
+- [INGEST] `roi_calculator.md` — formula ROI, 3 scenari (Direct 50 device: payback 18m, RevShare: ROI ∞, Reservation: pay-per-campaign), benchmark sell-out
+- [INGEST] `preventivazione.md` — flusso 6-step, tabelle sconti (fascia device + partner level + durata), template documento e email
+- [INGEST] `sensoristica.md` — CAM/WiFi/BLE: metriche, specifiche HW, kit base/avanzato/enterprise, calibrazione, manutenzione
+- [INGEST] `privacy_gdpr.md` — Privacy by Design, ruoli GDPR (ND=Processor, Retailer=Controller), DPA, retention policy, FAQ cliente
+- [INGEST] `monetizzazione_dati.md` — Feed Mobilità (2A), Piattaforma Footfall/One Data Platform (2B), Segmenti Audience/SUPER USER (2C)
+- [INGEST] `retail_media_grid.md` — moduli MEASURE/ENGAGE/MONETIZE, architettura AWS+edge, integrazioni Samsung/DSP/CRM
+- [UPDATE] `index.md` — aggiunta sezioni Tecnico espanse + Operations dettagliate + `rfp_library.md`
+- Fonte: `JarvisNEXT/knowledge-base/` (14 file MD, 2.680 righe totali)
+
+## 2026-05-15 — Strategia BU Data & Retail
+
+- Creata pagina [business_data_ai.md](business_data_ai.md) — documento strategico interno "AI Data Access Platform"
+  - Pivot da Data Monetization → Data-as-an-Agent Service (DaaS-AI)
+  - 4 prodotti previsti: AI Plugin Marketplace, Conversational Data API, AI Mobility Intelligence, AI Retail Intelligence
+  - Pricing tier STARTER/PROFESSIONAL/ENTERPRISE + consumption
+  - Proof point integrati: Barilla Pinsa +183%, Gran Cereale +117%, Henkel Brico io +22,33%
+  - North Star: "The AI Operating System for Retail & Mobility Data"
+  - Status: draft v1, da validare con board — next steps elencati in §13
+- Aggiornato index.md con riferimento a nuova pagina sotto BU Data & Retail
+- Fonte input: documento strategico interno; arricchimento da JarvisNEXT knowledge-base (case studies, monetizzazione dati)
 
 ## 2026-05-13 — Ingest email giornaliero
 
