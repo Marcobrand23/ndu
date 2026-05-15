@@ -7,6 +7,16 @@ aggiornato: 2026-05-13
 
 # Wiki Log — Next Different (NDU)
 
+## 2026-05-15 — Ingest email giornaliero
+
+- [INGEST] email 2026-05-14: 14 email rilevanti (account2 nextdifferent: 14)
+  - ndu: 14 email totali
+  - pagine create: trattativa_alma_farmacie.md
+  - pagine aggiornate: trattativa_unieuro.md (Sensori Arena TV: visita fornitore 15/05 + 3 PDV), trattativa_costa_crociere_fidia.md (visita nave OK, buone notizie, meeting 15/05), partnership_mcube_uniting.md (3 meeting Uniting: Retail Media Plan 15/05, Social MCP 26/05, Adriano handover 22/05), index.md
+  - Raw salvati: 5 file (email/)
+  - Allegati salvati: nessuno
+  - Temi principali: Unieuro Sensori Arena TV supplier visit domani (15/05) + 3 PDV test, Costa Crociere visita nave OK buone notizie, Alma Farmacie DOOH + Sky Media offerta, Alesca data extraction in corso, Uniting 3 nuovi meeting, RCS Bricoio legal quasi concluso, IdeaShopping app bug fix in corso
+
 ## 2026-05-14 — Ingest email giornaliero
 
 - [INGEST] email 2026-05-13: 12 email rilevanti (account2 nextdifferent: 12)

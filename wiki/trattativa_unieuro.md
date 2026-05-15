@@ -2,7 +2,7 @@
 tipo: contratto
 fonte: email
 confidenza: alta
-aggiornato: 2026-05-14
+aggiornato: 2026-05-15
 ---
 
 # Trattativa — Unieuro
@@ -56,6 +56,16 @@ Presentazione cliente Unieuro presso BIM Milano (Sala Board), in presenza con il
 - Davide Campilongo ha documentato con foto/video su Drive
 - Informati: Francesco Bacchelli, Marco Brandstetter, Enrica Matteucci, Adriano Lionetti
 - Next step: rivalutare stato vetrina e pianificare nuovo intervento
+
+---
+
+## Aggiornamento 14/05/2026 — Progetto Sensori Arena TV
+
+Marco Stradaroli (Unieuro) conferma:
+- **15/05/2026 mattina**: Unieuro è presso il fornitore di sensori + VC con NDU (Marco Cagnazzi, Enrica Matteucci, Jarvis)
+- **Dopo la visita**: Unieuro fornirà 3 **negozi tipo** per verificare la soluzione tecnica più consona
+
+Stakeholder Unieuro su questo progetto: Marco Stradaroli, David Carmona Lopez, Marco Titi, Lucrezia Deseri, Angelo Lamacchia.
 
 ---
 

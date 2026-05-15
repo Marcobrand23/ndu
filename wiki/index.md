@@ -21,11 +21,12 @@ aggiornato: 2026-05-12
 - [trattativa_barilla.md](trattativa_barilla.md) — Follow-up positivo meeting 30/04 (Next14 + EMG)
 - [trattativa_electrolux.md](trattativa_electrolux.md) — Gara Store-in-Store con Uniting (12/05/2026)
 - [trattativa_apple_att.md](trattativa_apple_att.md) — Apple ATT con Fideres — meeting 20/05/2026
-- [trattativa_costa_crociere_fidia.md](trattativa_costa_crociere_fidia.md) — Costa Crociere x Fidia, ND facilitatore (meeting 11/05/2026)
+- [trattativa_costa_crociere_fidia.md](trattativa_costa_crociere_fidia.md) — Costa Crociere x Fidia: visita nave OK, buone notizie (14/05/2026)
 - [trattativa_edenred.md](trattativa_edenred.md) — nuova opportunità Edenred retail media geo/proximity (08/05/2026)
 - [trattativa_alleanza.md](trattativa_alleanza.md) — LOI Alleanza Cooperative GDO retail media in-store (08/05/2026)
 - [trattativa_qualifier.md](trattativa_qualifier.md) — new business Qualifier.it (rete schermi Next per lead gen)
-- [trattativa_unieuro.md](trattativa_unieuro.md) — pitch Unieuro 26/02/2026 (Uniting + NDU + BlueSky)
+- [trattativa_unieuro.md](trattativa_unieuro.md) — Sensori Arena TV: visita fornitore 15/05 + 3 PDV test (14/05/2026)
+- [trattativa_alma_farmacie.md](trattativa_alma_farmacie.md) — Alma Farmacie DOOH via Pharma-Green + Sky Media (14/05/2026)
 - [ma_restore.md](ma_restore.md) — M&A Restore/Be-Ready, meeting Zanotti 13/04/2026
 
 ## Clienti attivi
@@ -56,4 +57,4 @@ aggiornato: 2026-05-12
 ## Brand
 - [brand.md](brand.md) — Brand identity, colori, linee guida
 
-*Aggiornato: 2026-05-14*
+*Aggiornato: 2026-05-15*

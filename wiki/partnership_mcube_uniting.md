@@ -2,7 +2,7 @@
 tipo: entità
 fonte: email
 confidenza: alta
-aggiornato: 2026-05-12
+aggiornato: 2026-05-15
 ---
 
 # Partnership — MCube Digital + Uniting (via Zanotti)
@@ -51,6 +51,21 @@ Confermato che Uniting è già operativa con ND su più fronti:
 | Piano Retail Media PGH (Pharma-Green) | Luca Colombi | Next steps concordati |
 
 Uniting ha altri contatti rispetto al filone MCube: Elisa Brancaleone, Davide Agarossi, Giancarlo Sampietro (kiwidigital.it — settimanale data retail tech 22/05).
+
+---
+
+## Meeting Uniting confermati (da email 14/05/2026)
+
+Emanuele Mazzi (uniting.it) ha organizzato tre meeting:
+
+| Meeting | Data | Partecipanti ND |
+|---------|------|-----------------|
+| Retail Media — Product Plan | 15/05/2026 ore 17:00-18:00 | Marco Brandstetter, Francesco Boano, Giovanni Cavatorta |
+| Social Media MCP | 26/05/2026 ore 16:00-17:00 | Marco Brandstetter, Matteo Cozzi, + Riccardo Antonel (Uniting), Matteo Tracci (Uniting) |
+| Passaggio consegne Adriano | 22/05/2026 ore 15:00-16:00 | Marco Brandstetter, Francesco Boano, Adriano Lionetti |
+
+*Social Media MCP*: Emanuele mostra tool social in produzione e valuta opportunità commerciali.
+*Passaggio consegne Adriano*: Adriano Lionetti lascia alcune attività — handover a team ND.
 
 ---
 

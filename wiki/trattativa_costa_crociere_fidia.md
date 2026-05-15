@@ -1,8 +1,8 @@
 ---
 tipo: contratto
 fonte: email
-confidenza: media
-aggiornato: 2026-05-11
+confidenza: alta
+aggiornato: 2026-05-15
 ---
 
 # Trattativa — Costa Crociere x Fidia
@@ -20,11 +20,20 @@ aggiornato: 2026-05-11
 
 ---
 
+## Aggiornamento 14/05/2026 — Buone Notizie
+
+- **Fabio Berra ha fatto il "giro in nave"** — visita fisica a bordo Costa Crociere ✅
+- Fabio porta **buone notizie** (contenuto non specificato)
+- Elisa Brancaleone (Uniting) ha organizzato meeting di allineamento per **15/05/2026**
+- Morana Mikulandra ha confermato la partecipazione
+
+---
+
 ## Next Steps (da meeting 11/05/2026)
 
-1. **Costa → Fidia**: Costa Crociere inoltra il loro NDA a Fidia
-2. **Visita bordo nave**: verifica logistica/operativa da programmare
-3. Recuperare informazioni aggiuntive (Morana in carico)
+1. ~~**Costa → Fidia**: Costa Crociere inoltra il loro NDA a Fidia~~ (in corso)
+2. ✅ **Visita bordo nave**: eseguita da Fabio Berra il 14/05/2026
+3. **Meeting allineamento 15/05/2026**: Elisa Brancaleone, Fabio Berra, Morana Mikulandra
 
 ---
 
