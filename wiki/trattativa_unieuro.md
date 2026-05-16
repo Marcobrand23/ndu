@@ -2,7 +2,7 @@
 tipo: contratto
 fonte: email
 confidenza: alta
-aggiornato: 2026-05-15
+aggiornato: 2026-05-16
 ---
 
 # Trattativa — Unieuro
@@ -66,6 +66,14 @@ Marco Stradaroli (Unieuro) conferma:
 - **Dopo la visita**: Unieuro fornirà 3 **negozi tipo** per verificare la soluzione tecnica più consona
 
 Stakeholder Unieuro su questo progetto: Marco Stradaroli, David Carmona Lopez, Marco Titi, Lucrezia Deseri, Angelo Lamacchia.
+
+## Aggiornamento 15/05/2026 — Post Call Sensori
+
+Enrica Matteucci (ND) invia recap call a Marco Stradaroli:
+- **Marco Stradaroli invierà una classificazione** (tipo negozi/sensori) → next step operativo
+- Call avvenuta → primo allineamento post visita fornitore
+
+*Riferimento a* → riunione operativa PLAUD 13/05 su retail media, SLA, governance operativa.
 
 ---
 

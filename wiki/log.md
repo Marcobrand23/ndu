@@ -2,10 +2,19 @@
 tipo: log
 fonte: manuale
 confidenza: alta
-aggiornato: 2026-05-13
+aggiornato: 2026-05-16
 ---
 
 # Wiki Log — Next Different (NDU)
+
+## 2026-05-16 — Ingest email giornaliero
+
+- [INGEST] email 2026-05-15: 13 email rilevanti (account2 nextdifferent: 11, account3 personal PLAUD: 2)
+  - ndu: 13 email totali
+  - pagine create: nessuna
+  - pagine aggiornate: trattativa_electrolux.md (meeting ND<>PoliMi<>Electrolux avvenuto 15/05 ore 16, rinnovo spazio espositivo Electrolux/AEG, Emilio Bellini PoliMi presente), trattativa_unieuro.md (Matteucci recap call sensori Arena TV, Stradaroli invierà classificazione), trattativa_costa_crociere_fidia.md (Fabio Berra recap sopralluogo: Costa come retailer non media owner, Cagnazzi si allinea lunedì 18/05)
+  - Raw salvati: 10 file (email/)
+  - Temi principali: Electrolux meeting avvenuto con PoliMi (rinnovo spazio espositivo AEG/Electrolux), Unieuro Sensori Arena TV follow-up (Stradaroli invierà classificazione negozi), Costa Crociere difficoltà strutturarsi come media owner (insight sopralluogo Berra), Fancy Truck API onboarding pronto (3 endpoint), Brico IO in attesa approvazione Marco, Alesca disponibile a definire API piena, Pikasso integrazione farmacie Milano, PoliMi Electrolux
 
 ## 2026-05-15 — Ingest email giornaliero
 

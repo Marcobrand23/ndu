@@ -2,7 +2,7 @@
 tipo: contratto
 fonte: email
 confidenza: alta
-aggiornato: 2026-05-14
+aggiornato: 2026-05-16
 ---
 
 # Trattativa Electrolux — Store-in-Store Gara
@@ -42,8 +42,21 @@ Electrolux ha invitato ND a partecipare a una gara per il rifacimento del loro S
 
 - [x] ~~Capire il brief completo della gara~~ → brief dal cliente venerdì 15/05 ore 16:00
 - [x] ~~Fissare call di allineamento~~ → confermata per 15/05 ore 16:00
-- [ ] **Meeting con Electrolux 15/05/2026 ore 16:00** (videocall)
+- [x] ~~**Meeting con Electrolux 15/05/2026 ore 16:00**~~ → **AVVENUTO** ✅
 - [ ] Post-meeting: definire approccio ND + Uniting per la risposta alla gara
+
+---
+
+## Aggiornamento — 15/05/2026 — Post Meeting
+
+**Meeting ND <> PoliMi <> Electrolux avvenuto** ore 16:00-16:40 (Emilio Bellini, PoliMi, acrobaticamente 16:00-16:35).
+
+**PLAUD trascrizione**: tema principale = **Rinnovo Spazio Espositivo Electrolux/AEG**.
+- Emilio Bellini (emilio.bellini@polimi.it) partecipa come referente PoliMi per il progetto
+- Marco B e Marco Cagnazzi presentano al PoliMi la proposta ND
+- Marco Brandstetter risponde "perfetto" all'organizzazione della call
+
+Prossimo step: definire risposta ND + Uniting + PoliMi per la gara rinnovo store Electrolux/AEG.
 
 ---
 

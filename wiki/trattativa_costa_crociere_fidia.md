@@ -2,7 +2,7 @@
 tipo: contratto
 fonte: email
 confidenza: alta
-aggiornato: 2026-05-15
+aggiornato: 2026-05-16
 ---
 
 # Trattativa — Costa Crociere x Fidia
@@ -29,11 +29,22 @@ aggiornato: 2026-05-15
 
 ---
 
+## Aggiornamento 15/05/2026 — Post Meeting Allineamento
+
+**Fabio Berra** condivide recap sopralluogo Costa Crociere:
+- **Costa è abituata a operare come semplice Retailer** (compra e vende prodotti/esperienze), NON come media owner
+- Difficoltà a strutturarsi come media player → sfida principale del progetto
+- Marco Cagnazzi ha mancato la call per un contrattempo → si allinea **lunedì 18/05**
+- Morana Mikulandra segue operativamente
+
+**Impatto strategico**: ND deve educare Costa sul concetto di retail media/media owner. Sfida non banale.
+
 ## Next Steps (da meeting 11/05/2026)
 
 1. ~~**Costa → Fidia**: Costa Crociere inoltra il loro NDA a Fidia~~ (in corso)
 2. ✅ **Visita bordo nave**: eseguita da Fabio Berra il 14/05/2026
-3. **Meeting allineamento 15/05/2026**: Elisa Brancaleone, Fabio Berra, Morana Mikulandra
+3. ✅ **Meeting allineamento 15/05/2026**: avvenuto — Fabio Berra condivide recap sopralluogo
+4. **Allineamento lunedì 18/05**: Marco Cagnazzi si allinea con Morana/Fabio per supporto area Data & Retail
 
 ---
 
