@@ -2,7 +2,7 @@
 tipo: entità
 fonte: email
 confidenza: alta
-aggiornato: 2026-05-15
+aggiornato: 2026-05-17
 ---
 
 # Partnership — MCube Digital + Uniting (via Zanotti)
@@ -69,6 +69,22 @@ Emanuele Mazzi (uniting.it) ha organizzato tre meeting:
 
 ---
 
+---
+
+## Aggiornamento — 16-17/05/2026 — Slot meeting MCube
+
+Meeting intro MCube + Uniting + ND ancora da fissare. Scambi email:
+
+| Chi | Disponibilità |
+|-----|--------------|
+| Leonardo Comelli (MCube) | ~~Martedì / Mercoledì~~ → disponibile **Venerdì 22/05** |
+| Alessandro Zanotti | disponibile **Giovedì 21/05 pranzo**, zona Tortona |
+
+Slot da confermare: **giovedì 21/05 (pranzo, zona Tortona)** o **venerdì 22/05**.
+Partecipanti confermati: Marco B., Leo Comelli, Alessandro Zanotti, Alessandro Talenti (Uniting).
+
+---
+
 ## Riferimento a
 *Riferimento a* → [partnership_accenture.md](partnership_accenture.md) (Alessandro Zanotti = Accenture)
 *Riferimento a* → [trattativa_valsoia.md](trattativa_valsoia.md)
@@ -78,3 +94,4 @@ Emanuele Mazzi (uniting.it) ha organizzato tre meeting:
 `NDU/raw/2026-05-11_uniting-mcube-intro.md`
 `NDU/raw/email/2026-05-12_valsoia-presentazione-2705.md`
 `NDU/raw/email/2026-05-12_electrolux-store-in-store-opportunita.md`
+`NDU/raw/email/2026-05-17_mcube-uniting-meeting-slot.md`

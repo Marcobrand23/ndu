@@ -2,7 +2,7 @@
 tipo: contratto
 fonte: email
 confidenza: alta
-aggiornato: 2026-05-16
+aggiornato: 2026-05-17
 ---
 
 # Trattativa Electrolux — Store-in-Store Gara
@@ -43,7 +43,8 @@ Electrolux ha invitato ND a partecipare a una gara per il rifacimento del loro S
 - [x] ~~Capire il brief completo della gara~~ → brief dal cliente venerdì 15/05 ore 16:00
 - [x] ~~Fissare call di allineamento~~ → confermata per 15/05 ore 16:00
 - [x] ~~**Meeting con Electrolux 15/05/2026 ore 16:00**~~ → **AVVENUTO** ✅
-- [ ] Post-meeting: definire approccio ND + Uniting per la risposta alla gara
+- [x] ~~Post-meeting: definire approccio ND + Uniting per la risposta alla gara~~ → **16/05: passaggio formale gestione a Marco Cagnazzi** ✅
+- [ ] Setup riunione settimana del 18/05 — allineamento Cagnazzi + team
 
 ---
 
@@ -57,6 +58,16 @@ Electrolux ha invitato ND a partecipare a una gara per il rifacimento del loro S
 - Marco Brandstetter risponde "perfetto" all'organizzazione della call
 
 Prossimo step: definire risposta ND + Uniting + PoliMi per la gara rinnovo store Electrolux/AEG.
+
+---
+
+## Aggiornamento — 16/05/2026 — Passaggio a Cagnazzi
+
+**Marco Brandstetter ha passato formalmente la gestione della trattativa a Marco Cagnazzi.**
+
+- Il progetto si chiama "Bottega Certosa" (nome del progetto/store Electrolux)
+- Richiesta: setup riunione settimana del 18/05/2026 per allineamento ND
+- Referente ND aggiornato: **Marco Cagnazzi** (era condiviso con Marco B.)
 
 ---
 

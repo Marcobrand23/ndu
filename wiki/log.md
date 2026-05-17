@@ -2,10 +2,19 @@
 tipo: log
 fonte: manuale
 confidenza: alta
-aggiornato: 2026-05-16
+aggiornato: 2026-05-17
 ---
 
 # Wiki Log — Next Different (NDU)
+
+## 2026-05-17 — Ingest email giornaliero
+
+- [INGEST] email 2026-05-16/17: 4 email rilevanti (account2 nextdifferent)
+  - ndu: 4 email totali
+  - pagine create: nessuna
+  - pagine aggiornate: trattativa_electrolux.md (16/05: Marco B. passa formalmente gestione "Bottega Certosa" a Marco Cagnazzi; setup riunione settimana 18/05), partnership_mcube_uniting.md (slot meeting MCube: Leo Comelli ven 22/05, Zanotti gio 21/05 pranzo zona Tortona — da confermare)
+  - Raw salvati: 3 file (electrolux-bottega-certosa-passaggio-cagnazzi, polimi-retail-media-requisiti-minimi, mcube-uniting-meeting-slot)
+  - Temi principali: Electrolux "Bottega Certosa" passa a Cagnazzi con setup meeting settimana prossima, MCube+Uniting meeting in definizione (gio/ven prossimi), nuova iniziativa PoliMi retail media CPM (Marco apre thread con Emilio Bellini)
 
 ## 2026-05-16 — Ingest email giornaliero
 
