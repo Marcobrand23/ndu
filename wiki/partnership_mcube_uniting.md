@@ -2,7 +2,7 @@
 tipo: entità
 fonte: email
 confidenza: alta
-aggiornato: 2026-05-17
+aggiornato: 2026-05-18
 ---
 
 # Partnership — MCube Digital + Uniting (via Zanotti)
@@ -85,6 +85,26 @@ Partecipanti confermati: Marco B., Leo Comelli, Alessandro Zanotti, Alessandro T
 
 ---
 
+## ✅ Meeting CONFERMATO — 17/05/2026
+
+| Campo | Valore |
+|-------|--------|
+| Data | **Giovedì 21/05/2026, pranzo** |
+| Luogo | **Zona Tortona, Milano** |
+| Stato | ✅ CONFERMATO |
+| Prenotazione | A cura di Marco B. (invierà maps) |
+
+Conferme ricevute: Leonardo Comelli (MCube) "Ok. Grazie Buona domenica!", Alessandro Zanotti "perfetto grazie!".
+Marco ha confermato la prenotazione del ristorante.
+
+Partecipanti:
+- Marco Brandstetter (ND)
+- Alessandro Zanotti
+- Leonardo Comelli (MCube Digital)
+- Alessandro Talenti (Uniting)
+
+---
+
 ## Riferimento a
 *Riferimento a* → [partnership_accenture.md](partnership_accenture.md) (Alessandro Zanotti = Accenture)
 *Riferimento a* → [trattativa_valsoia.md](trattativa_valsoia.md)
@@ -95,3 +115,4 @@ Partecipanti confermati: Marco B., Leo Comelli, Alessandro Zanotti, Alessandro T
 `NDU/raw/email/2026-05-12_valsoia-presentazione-2705.md`
 `NDU/raw/email/2026-05-12_electrolux-store-in-store-opportunita.md`
 `NDU/raw/email/2026-05-17_mcube-uniting-meeting-slot.md`
+`NDU/raw/email/2026-05-17_mcube-uniting-meeting-confermato.md`

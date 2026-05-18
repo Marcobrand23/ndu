@@ -2,10 +2,19 @@
 tipo: log
 fonte: manuale
 confidenza: alta
-aggiornato: 2026-05-17
+aggiornato: 2026-05-18
 ---
 
 # Wiki Log — Next Different (NDU)
+
+## 2026-05-18 — Ingest email giornaliero
+
+- [INGEST] email 2026-05-17: 2 email rilevanti (account2 nextdifferent)
+  - ndu: 2 email totali
+  - pagine create: nessuna
+  - pagine aggiornate: partnership_mcube_uniting.md (meeting MCube+Uniting+ND CONFERMATO per gio 21/05 pranzo zona Tortona — prenotazione a cura di Marco)
+  - Raw salvati: 2 file (mcube-uniting-meeting-confermato, 3pw-filiera-retail-media)
+  - Temi principali: Meeting intro MCube+Uniting+ND confermato per giovedì 21/05 pranzo zona Tortona; 3PW (Alessio Di Domizio) ha condiviso foglio "Filiera Retail Media" — nuovo contatto non ancora in wiki
 
 ## 2026-05-17 — Ingest email giornaliero
 
