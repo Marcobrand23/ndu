@@ -2,7 +2,7 @@
 tipo: contratto
 fonte: email
 confidenza: alta
-aggiornato: 2026-05-14
+aggiornato: 2026-05-18
 ---
 
 # Trattativa — Parmalat
@@ -87,15 +87,30 @@ Meeting interno di preparazione (PLAUD 07/05/2026 ore 10:40):
 
 ---
 
+---
+
+## Aggiornamento — 18/05/2026
+
+**Fabio Berra chiede check pag 19-20-21 della presentazione** (in particolare a Marco e Matteo Cozzi non presenti in call).
+
+**Risposta Marco**:
+> "per me è convincente. aggiungerei una call to action per il brand con le domande a cui vogliamo risposta e in qualche modo impegno: 1. budget 26 e 27? 2. che condizioni di catena..."
+
+**Meeting "Requisiti Brand per LOI"** — 18/05 ore 15:30-16:30 (Google Meet):
+- Partecipanti: Fabio Berra, Marco Brandstetter, Matteo Cozzi, Annachiara Orlandini, Matteo Sangalli (Durante), Alessio Di Domizio (Durante)
+- Focus: definire i requisiti per la LOI formale
+
+---
+
 ## Next Steps Aperti
 
 - [x] ~~Raccogliere feedback post-meeting FLU/Parmalat~~ → Call andata bene 11/05
-- [x] ~~Standardizzare requirements con Durante~~ → Alessio Di Domizio e Fabio Berra al lavoro sulle slides
-- [ ] **Check slides Fabio + Alessio** — 14/05 pomeriggio
-- [ ] **Meeting Parmalat Retail media Conad — 15/05/2026 ore 15:00** (Teams)
-- [ ] **Creare documento requirements** per soluzione retail media (base per presentazioni + LOI)
-- [ ] Redigere LOI formale
-- [ ] Mockup totem Zymil/Chef/Santal (se richiesti)
+- [x] ~~Standardizzare requirements con Durante~~ → Alessio Di Domizio e Fabio Berra al lavoro
+- [x] ~~Check slides Fabio + Alessio~~ → Marco: "convincente", suggerisce CTA budget
+- [x] ~~Meeting Parmalat Retail media Conad 15/05~~ → eseguito
+- [x] ~~Meeting "Requisiti Brand per LOI" 18/05~~ → eseguito
+- [ ] **Creare documento requirements** per soluzione retail media (base per LOI)
+- [ ] **Redigere LOI formale** con domande budget 26/27 e condizioni catena
 - [ ] Definire orchestrazione dati per misurazione campagne
 
 ---
@@ -105,3 +120,4 @@ Meeting interno di preparazione (PLAUD 07/05/2026 ore 10:40):
 `NDU/raw/2026-05-07_10-40_plaud-parmalat-retail-media-KPI.md`
 `NDU/raw/2026-05-11_parmalat-call-loi.md`
 `NDU/raw/2026-05-11_plaud-parmalat-presentazione.md`
+`NDU/raw/email/2026-05-18_parmalat-presentazione-loi.md`

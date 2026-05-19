@@ -2,10 +2,19 @@
 tipo: log
 fonte: manuale
 confidenza: alta
-aggiornato: 2026-05-18
+aggiornato: 2026-05-19
 ---
 
 # Wiki Log — Next Different (NDU)
+
+## 2026-05-19 — Ingest email giornaliero
+
+- [INGEST] email 2026-05-18: 19 email rilevanti (account2 nextdifferent)
+  - ndu: 19 email → pagine toccate:
+    - aggiornate: trattativa_barilla.md (test picking CNO prima wave termina 20/5, meeting ND 19/5 h11:30, meeting Barilla 11/6), trattativa_parmalat.md (meeting Requisiti Brand x LOI 18/5, Marco: "convincente", aggiungi CTA budget), trattativa_alma_farmacie.md (status 21 farmacie / 39 schermi 23+16, richiesta PPT), partnership_mcube_uniting.md (accordo Uniting firmato, Nielsen in stallo, piano partito, Kiwi Digital weekly 22/5), index.md
+    - create: imu_2026.md (⚠️ acconto IMU scadenza 16 giugno 2026)
+  - Raw salvati: 7 file (barilla-picking-cno, parmalat-loi, br-mensilizzazione, zanotti-piano-crescita, alma-farmacie-status, imu-2026, kiwi-digital-weekly)
+  - ⚠️ AZIONI: (1) Inviare presentazione Alma Farmacie in PPT, (2) IMU dati a Studio Zamboni entro 16/6, (3) Meeting Barilla ND 19/5 ore 11:30
 
 ## 2026-05-18 — Ingest email giornaliero
 

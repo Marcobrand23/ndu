@@ -2,7 +2,7 @@
 tipo: entità
 fonte: email
 confidenza: alta
-aggiornato: 2026-05-18
+aggiornato: 2026-05-19
 ---
 
 # Partnership — MCube Digital + Uniting (via Zanotti)
@@ -105,6 +105,29 @@ Partecipanti:
 
 ---
 
+---
+
+## Aggiornamento — 18/05/2026 — Piano crescita NDU Retail Media
+
+**Accordo Uniting**: Alessandro Talenti (Uniting) ha inviato a Zanotti l'accordo **firmato da Marco B.**
+→ **Contratto Uniting-NDU siglato.**
+
+**Nielsen in stallo**: trattativa/accordo con Nielsen si è fermato dalla settimana del 13/05. Marco torna alla carica il 19/05.
+
+**Piano lancio attivato**: Alessandro Zanotti conferma "siamo partiti con Marco B." — in agenda review + incontri con target company.
+
+**Kiwi Digital (Giancarlo Sampietro)**: weekly data retail tech aggiornato → **Venerdì 22/05 ore 16:00-17:00** (Google Meet, con Emanuele Mazzi di Uniting).
+
+**Incontro kick-off piano lavoro NDU/Retail Media** (con Zanotti, Zanardi, Labate):
+Date proposte da Marco Zanardi (BeReady): 22, 25, 26, 28, 29 maggio.
+
+---
+
+## Dipende da
+- Accordo Nielsen → in stallo al 18/05
+- Meeting MCube/Uniting/ND → **21/05 pranzo Tortona** (confermato)
+- Kick-off piano lavoro NDU → da fissare (22-29 maggio)
+
 ## Riferimento a
 *Riferimento a* → [partnership_accenture.md](partnership_accenture.md) (Alessandro Zanotti = Accenture)
 *Riferimento a* → [trattativa_valsoia.md](trattativa_valsoia.md)
@@ -116,3 +139,5 @@ Partecipanti:
 `NDU/raw/email/2026-05-12_electrolux-store-in-store-opportunita.md`
 `NDU/raw/email/2026-05-17_mcube-uniting-meeting-slot.md`
 `NDU/raw/email/2026-05-17_mcube-uniting-meeting-confermato.md`
+`NDU/raw/email/2026-05-18_zanotti-piano-crescita-retail-media.md`
+`NDU/raw/email/2026-05-18_kiwi-digital-weekly.md`
