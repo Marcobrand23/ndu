@@ -7,6 +7,15 @@ aggiornato: 2026-05-19
 
 # Wiki Log — Next Different (NDU)
 
+## 2026-05-20 — Ingest email giornaliero
+
+- [INGEST] email 2026-05-19: 14 email rilevanti (account2 nextdifferent + account3 personal PLAUD)
+  - ndu: 14 email → pagine toccate:
+    - aggiornate: pipeline.md (Fileni rinviata luglio 2027, Artsana slide aggiuntive, Unipol incontri MIC 20/5, Homnya contratto da approvare, L2 soluzioni firma sconti, lancio NDU 30/06), trattativa_barilla.md (Fabbro invito meeting 11/06, business review mensilizzazione urgente)
+    - create: trattativa_fileni.md (❌ no 2026, riaggiornarsi luglio 2027)
+  - Raw salvati: 10 file email (7 email + 3 PLAUD transcriptions)
+  - ⚠️ AZIONI: (1) Lista invitati evento lancio NDU 30/06 (urgente, richiesta da Laurito), (2) Approvare contratto Homnya (Consulcesi), (3) Compilare mensilizzazione custom Business Review, (4) Riaggiornarsi Fileni metà luglio 2026
+
 ## 2026-05-19 — Ingest email giornaliero
 
 - [INGEST] email 2026-05-18: 19 email rilevanti (account2 nextdifferent)

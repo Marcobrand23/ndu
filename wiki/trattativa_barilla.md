@@ -2,7 +2,7 @@
 tipo: contratto
 fonte: email
 confidenza: alta
-aggiornato: 2026-05-18
+aggiornato: 2026-05-20
 ---
 
 # Trattativa Barilla — Follow-up Meeting 30/04/2026
@@ -51,8 +51,20 @@ aggiornato: 2026-05-18
 - [x] ~~Risposta Barilla sui next steps~~ → ricevuta positivamente (12/05) + focus picking CNO
 - [ ] **Attendere risultati prima wave test picking CNO** (termina 20/05/2026)
 - [ ] **Meeting interno 19/05 ore 11:30** (prep per meeting Barilla 11/06)
-- [ ] **Meeting con Barilla 11/06/2026** — da fissare data precisa
+- [ ] **Attendere risultati prima wave test picking CNO** (termina 20/05/2026)
+- [x] ~~Meeting interno 19/05 ore 11:30~~ → confermato
+- [ ] **Meeting con Barilla 11/06/2026** — Francesco Fabbro ha inviato invito con link Meet
 - [ ] Definire proposta specifica su Testate CNO in base ai risultati test
+
+---
+
+## Aggiornamento — 19/05/2026
+
+**Barilla (Francesco Fabbro)** ha inviato l'invito ufficiale per il meeting del 11/06/2026 con ordine del giorno: "INCONTRO FOLLOW UP: risultati test picking + dati funnel".
+
+Partecipanti: Barilla (Linda Stefani, Luca Ravazzoni, Elena Bonasio, Filippo Bedini, Fabio Roggero), ND (Annachiara Orlandini, Cristina Benedini, Alessandro Barboro, Fabio Berra, Marco Brandstetter), CC Silvia Napolitano.
+
+**Business Review mensilizzazione**: Francesco Bacchelli (NDU) ha richiesto urgente compilazione "mensilizzazione custom" per Business Review — Marco deve inserire pesi mensili delle chiuse vinte.
 
 ---
 
@@ -62,3 +74,4 @@ aggiornato: 2026-05-18
 ## Fonte
 `ndu/raw/email/2026-05-12_barilla-meeting-30aprile-followup.md`
 `NDU/raw/email/2026-05-18_barilla-picking-cno-meeting.md`
+`NDU/raw/email/2026-05-19_16-53_bacchelli-business-review-mensilizzazione.md`

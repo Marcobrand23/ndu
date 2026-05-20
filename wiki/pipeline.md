@@ -57,6 +57,19 @@ Henkel, Trenord, Q-Farma, Moby, Mediolanum, Unieuro, Parmalat, Kia, Euronics, Br
 | **Skipass Livigno** | ✅ Offerta OE firmata e restituita 12/05/2026 (ref: Fabio Berra) | — |
 | **Pharma-Green** | Piano Retail Media farmacie — next steps concordati con Uniting | — |
 
+## Trattative — 19 Maggio 2026
+
+| Cliente | Status | Note |
+|---------|--------|------|
+| **Fileni** | ❌ Rinviata — no spazio 2026, riaggiornarsi luglio 2027 | Vasche frigo con Bboard; Barbara Saba rinvia |
+| **Artsana** | 🔄 In avanzamento — slide aggiuntive inviate su richiesta di Marco Orseniga | Flussi operativi campagne |
+| **Unipol** | 🔄 In corso — incontri agenzie MIC (20/05/2026) | Zannini Antonio (unipol.it) conferma presenza |
+| **Homnya (Consulcesi)** | ⚠️ Contratto da rivedere — modifiche proposte da ND | Marco Brandstetter deve approvare |
+| **L2 Soluzioni** | 🔄 Contratto fasce sconto inviato per firma | Capitolo movimentazione stralciato |
+| **Barilla** | 🔄 Meeting follow-up risultati test picking — Fabbro 19/05 | Prima wave termina 20/05 |
+
+**Evento lancio NDU: 30 giugno 2026** — urgente lista invitati clienti/prospect richiesta da Paolo Laurito.
+
 ## Note
 - Aggiornare questa pagina dopo ogni INGEST di email/call/meeting commerciale
 - Per il dettaglio di ogni offerta, consultare CRM Monday direttamente
