@@ -7,6 +7,15 @@ aggiornato: 2026-05-19
 
 # Wiki Log — Next Different (NDU)
 
+## 2026-05-21 — Ingest email giornaliero
+
+- [INGEST] email 2026-05-20: 18 email rilevanti (account2 nextdifferent)
+  - ndu: 18 email → pagine toccate:
+    - aggiornate: trattativa_unieuro.md (fattura Progetto Vetrine **emessa 20/05/2026**, scadenza 31/07/2026, 60gg dffm), trattativa_apple_att.md (call FIDERES avvenuta con Boano+Matteo → dati quantitativi in arrivo), ma_restore.md (**incontro 3 giugno 2026 ore 17:00** Via Tortona 37 confermato con Labate+Zanotti+Zanardi; Talenti assente/Madrid), operations.md (ISO 27001: intervista Marco da pianificare via OneCal; Talenti: richiesta reporting new business BU)
+    - create: nessuna
+  - Raw salvati: 6 file email
+  - ⚠️ AZIONI: (1) Alessandro Cosenza sceglie slot OneCal per ISO 27001, (2) Preparare incontro 3 giugno con scenari LOI Restore, (3) Attendere dati FIDERES Apple ATT
+
 ## 2026-05-20 — Ingest email giornaliero
 
 - [INGEST] email 2026-05-19: 14 email rilevanti (account2 nextdifferent + account3 personal PLAUD)

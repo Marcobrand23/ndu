@@ -2,7 +2,7 @@
 tipo: decisione
 fonte: riunione
 confidenza: alta
-aggiornato: 2026-04-13
+aggiornato: 2026-05-21
 ---
 
 # M&A — Restore / Be-Ready
@@ -91,15 +91,28 @@ Proposta Zanotti per scala installativa:
 
 ---
 
+## Aggiornamento — 20/05/2026 — Incontro 3 Giugno confermato
+
+**Thread "Incontro Piano di lavoro NDU + Retail Media"** (Barbara Labate, Alessandro Zanotti, Marco Zanardi, Alessandro Talenti, Marco Brandstetter):
+
+- **Incontro confermato: 3 giugno 2026, ore 17:00, Via Tortona 37, Milano (sede NDU)**
+- Partecipanti confermati: Barbara Labate (Restore.shopping), Alessandro Zanotti, Marco Zanardi (BeReady), Marco Brandstetter
+- ~~28 maggio~~ → spostato al 3 giugno (28 si è complicato)
+- Alessandro Talenti (CEO Uniting) **non può partecipare** (trasferta Madrid il 3 giugno)
+- Giancarlo Sampietro: non specificato
+- **Alessandro Zanotti** prepara piano con attività anticipate → obiettivo: arrivare all'incontro con scenari concreti per **LOI**
+
+Nota: Barbara Labate ha compilato form e confermato via Calendly.
+
 ## Next Steps
 
-- [ ] Debrief interno NDU sulla call
-- [ ] Decisione go/no-go per approfondimento
+- [x] ~~Debrief interno NDU sulla call~~ (13/04)
+- [ ] **Incontro 3 giugno 2026 ore 17:00 Via Tortona 37 Milano** con Labate, Zanotti, Zanardi
+- [ ] Piano attività anticipate da Zanotti
+- [ ] Definire scenari concreti per LOI (da portare al 3 giugno)
+- [ ] Decisione go/no-go per approfondimento M&A
 - [ ] Se go: scambio documenti (bilanci, piani) — NDA già firmato
-- [ ] Scorporo Restore in 3 entità (logistica / SaaS / media-dati)
-- [ ] Quantificare sinergie NDU (cross-sell base clienti, es. Barilla già cliente agenzia)
 - [ ] Strutturare "Santa Alleanza" con M-Cube e/o Tecnovision
-- [ ] Definire policy commerciale vs centri media (rischio conflitto)
 - [ ] Gare prioritarie 12-18 mesi: Esselunga, Conad, Selex
 
 ---

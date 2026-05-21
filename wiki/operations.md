@@ -2,7 +2,7 @@
 tipo: processo
 fonte: documento
 confidenza: alta
-aggiornato: 2026-05-10
+aggiornato: 2026-05-21
 ---
 
 # Operations — Modelli di Business & Preventivazione
@@ -51,5 +51,42 @@ Parametri chiave per stima ROI cliente:
 
 ---
 
+---
+
+## ISO 27001 — Certificazione in corso (maggio 2026)
+
+Progetto certificazione ISO 27001 attivo in Next Different / Uniting.
+
+| Campo | Valore |
+|-------|--------|
+| Referente ND | Antonino Barreca (antonino.barreca@nextdifferent.com) |
+| Referente Uniting | Alessandro Cosenza (alessandro.cosenza@uniting.it) |
+| Stato | 🟡 In corso — intervista Marco Brandstetter da pianificare |
+
+**20/05/2026**: Antonino Barreca chiede nuova disponibilità a Marco Brandstetter per intervista conoscitiva.
+Marco ha condiviso link OneCal (videocall). Alessandro Cosenza deve scegliere uno slot.
+
+**Next step**: Alessandro Cosenza sceglie disponibilità da OneCal.
+
+---
+
+## Governance BU — Reporting New Business (maggio 2026)
+
+Alessandro Talenti (CEO Uniting) sta unificando la visione dei numeri di tutte le BU per la business review.
+Richiede file periodico con dati new business dalla BU Data & Retail (ND).
+
+| Campo | Valore |
+|-------|--------|
+| Richiedente | Alessandro Talenti (CEO Uniting) |
+| CC | Roberto Frassinelli (ND) |
+| Stato | 🟡 In definizione — Talenti prepara il file template |
+
+Marco ha chiarito che la BU fornisce obiettivo new biz a inizio anno e poi lo monitora.
+Talenti approfondirà e tornerà con domande.
+
+---
+
 ## Fonte
 `JarvisNEXT/knowledge-base/06_OPERATIONS/modelli-business.md`
+`ndu/raw/email/2026-05-20_iso-27001-disponibilita-marco.md`
+`ndu/raw/email/2026-05-20_talenti-new-business-dati.md`

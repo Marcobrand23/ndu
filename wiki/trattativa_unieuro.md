@@ -2,7 +2,7 @@
 tipo: contratto
 fonte: email
 confidenza: alta
-aggiornato: 2026-05-16
+aggiornato: 2026-05-21
 ---
 
 # Trattativa — Unieuro
@@ -77,6 +77,20 @@ Enrica Matteucci (ND) invia recap call a Marco Stradaroli:
 
 ---
 
+## Aggiornamento — 20/05/2026 — Fatturazione Progetto Vetrine
+
+**Fattura Progetto Vetrine emessa in data 20/05/2026** (era rimasta non emessa da marzo).
+
+Situazione riscontrata:
+- Barbara Astorina (admin ND) forward sollecito Unieuro per fatture Progetto Vetrine
+- Matteo Pomi: "non l'ho mai passato a Barbara, perché sul consuntivo di marzo Unieuro era in attesa"
+- Fabio Berra l'aveva dato per fatturato → mancato passaggio all'amministrazione
+- Fattura emessa 20/05/2026 con **scadenza 31 luglio 2026** (60 gg dffm)
+- Marco Cagnazzi chiederà a Unieuro la data valuta effettiva
+
+**Account**: Marco Cagnazzi (referente commerciale Unieuro lato ND).
+
 ## Connessioni
 - **Bip/Officina** — interview pregresse legate a Unieuro
 - **Percassi Retail** — possibile coinvolgimento successivo
+- `ndu/raw/email/2026-05-20_unieuro-vetrine-fattura-emessa.md`
