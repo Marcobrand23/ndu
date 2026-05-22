@@ -2,7 +2,7 @@
 tipo: contratto
 fonte: email
 confidenza: alta
-aggiornato: 2026-05-18
+aggiornato: 2026-05-22
 ---
 
 # Trattativa — Parmalat
@@ -102,6 +102,17 @@ Meeting interno di preparazione (PLAUD 07/05/2026 ore 10:40):
 
 ---
 
+## Aggiornamento — 21/05/2026
+
+**Fabio Berra** condivide presentazione aggiornata graficamente (link Google Slides):
+- Link: `https://docs.google.com/presentation/d/1NvZQSFxwMFqETZqUtu-ikGcL0xyEnQsD/edit`
+
+**Marco** risponde: "facciamo punto domani mattino" (22/05/2026)
+
+**Alessio Di Domizio (Durante)** risponde (arrivata notte 22/05): [contenuto da verificare]
+
+---
+
 ## Next Steps Aperti
 
 - [x] ~~Raccogliere feedback post-meeting FLU/Parmalat~~ → Call andata bene 11/05
@@ -109,6 +120,7 @@ Meeting interno di preparazione (PLAUD 07/05/2026 ore 10:40):
 - [x] ~~Check slides Fabio + Alessio~~ → Marco: "convincente", suggerisce CTA budget
 - [x] ~~Meeting Parmalat Retail media Conad 15/05~~ → eseguito
 - [x] ~~Meeting "Requisiti Brand per LOI" 18/05~~ → eseguito
+- [ ] **Punto con Fabio Berra 22/05** — revisione presentazione aggiornata
 - [ ] **Creare documento requirements** per soluzione retail media (base per LOI)
 - [ ] **Redigere LOI formale** con domande budget 26/27 e condizioni catena
 - [ ] Definire orchestrazione dati per misurazione campagne

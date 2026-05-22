@@ -2,7 +2,7 @@
 tipo: contratto
 fonte: email
 confidenza: alta
-aggiornato: 2026-05-20
+aggiornato: 2026-05-22
 ---
 
 # Trattativa Barilla — Follow-up Meeting 30/04/2026
@@ -65,6 +65,19 @@ aggiornato: 2026-05-20
 Partecipanti: Barilla (Linda Stefani, Luca Ravazzoni, Elena Bonasio, Filippo Bedini, Fabio Roggero), ND (Annachiara Orlandini, Cristina Benedini, Alessandro Barboro, Fabio Berra, Marco Brandstetter), CC Silvia Napolitano.
 
 **Business Review mensilizzazione**: Francesco Bacchelli (NDU) ha richiesto urgente compilazione "mensilizzazione custom" per Business Review — Marco deve inserire pesi mensili delle chiuse vinte.
+
+---
+
+---
+
+## Aggiornamento — 21/05/2026 — Fondazione Barilla: richiesta approfondimento dati
+
+**Fondazione Barilla** (diversa da Barilla Group) ha richiesto approfondimento dati per il progetto **"Il Grand Tour del Libro del Risparmio"**.
+
+Fabio Berra (fwd ad Annachiara Orlandini, Filippo Caracciolo, CC Marco) propone risposta con metodologia audience NDU:
+> "Grazie all'audience Next Different che traccia attraverso un network di oltre 100 app mobile di varie [categorie...]"
+
+Azione: Annachiara Orlandini prepara risposta con metodologia.
 
 ---
 

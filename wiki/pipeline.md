@@ -2,7 +2,7 @@
 tipo: stato
 fonte: documento
 confidenza: media
-aggiornato: 2026-05-12
+aggiornato: 2026-05-22
 ---
 
 # Pipeline Commerciale — BU Data & Retail
@@ -69,6 +69,17 @@ Henkel, Trenord, Q-Farma, Moby, Mediolanum, Unieuro, Parmalat, Kia, Euronics, Br
 | **Barilla** | 🔄 Meeting follow-up risultati test picking — Fabbro 19/05 | Prima wave termina 20/05 |
 
 **Evento lancio NDU: 30 giugno 2026** — urgente lista invitati clienti/prospect richiesta da Paolo Laurito.
+
+## Trattative — 21 Maggio 2026
+
+| Cliente | Status | Ref. pagina |
+|---------|--------|-------------|
+| **SEB / Lagostina** | 🆕 Nuova — assistente virtuale instore flagship store; Davide Arduini contatta CEO Stefano Cau | → [trattativa_seb.md](trattativa_seb.md) |
+| **Montenegro (spirits)** | 🆕 Nuovo prospect — Luca Colombi (Uniting) intro Marco&Marco a Daniele De Angelis; date call da confermare | — |
+| **LG Electronics (schermi)** | 🔄 Quotazione in corso — 20 vetrine window facing, prezzo LGE richiesto; call 26/05 ore 12-13 Cagnazzi+Bacchelli | — |
+| **Parmalat** | 🔄 Presentazione aggiornata graficamente (21/05); punto Marco+Fabio 22/05 mattino | → [trattativa_parmalat.md](trattativa_parmalat.md) |
+| **Electrolux / Bottega Certosa** | 🔄 Guidelines ricevute; slot confermato Amanda Frascolla (Uniting) + PoliMi | → [trattativa_electrolux.md](trattativa_electrolux.md) |
+| **Fondazione Barilla** | 🔄 Richiesta approfondimento dati audience — risposta con metodologia 100+ app mobile | → [trattativa_barilla.md](trattativa_barilla.md) |
 
 ## Note
 - Aggiornare questa pagina dopo ogni INGEST di email/call/meeting commerciale

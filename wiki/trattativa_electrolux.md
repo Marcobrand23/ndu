@@ -2,7 +2,7 @@
 tipo: contratto
 fonte: email
 confidenza: alta
-aggiornato: 2026-05-17
+aggiornato: 2026-05-22
 ---
 
 # Trattativa Electrolux — Store-in-Store Gara
@@ -70,6 +70,23 @@ Prossimo step: definire risposta ND + Uniting + PoliMi per la gara rinnovo store
 - Referente ND aggiornato: **Marco Cagnazzi** (era condiviso con Marco B.)
 
 ---
+
+---
+
+## Aggiornamento — 21/05/2026
+
+**Amanda Frascolla (Uniting)** risponde a Marco Cagnazzi (CC PoliMi):
+> "certamente è un ottimo segnale! Lato mio confermo lo slot. Benissimo per la ricezione delle guidelines."
+> Integra con documentazione dvg dello spazio.
+
+Partecipanti confermati: Marco Cagnazzi (ND), Amanda Frascolla (Uniting), Emilio Bellini, Alessandro Biffi, Silvia Eleonora Castellazzi (tutti PoliMi).
+
+→ Slot confermato, guidelines ricevute, PoliMi integra con dvg spazio.
+
+**Next Steps aggiornati:**
+- [x] ~~Setup riunione settimana 18/05~~ → in corso
+- [ ] Risposta formale alla gara con Uniting + PoliMi
+- [ ] Integrare dvg spazio (PoliMi)
 
 ## Dipende da
 *Dipende da* → allineamento ND + Uniting sulla proposta di gara

@@ -27,6 +27,7 @@ aggiornato: 2026-05-12
 - [trattativa_qualifier.md](trattativa_qualifier.md) — new business Qualifier.it (rete schermi Next per lead gen)
 - [trattativa_unieuro.md](trattativa_unieuro.md) — Sensori Arena TV: visita fornitore 15/05 + 3 PDV test (14/05/2026)
 - [trattativa_alma_farmacie.md](trattativa_alma_farmacie.md) — 21 farmacie / 39 schermi — richiesta PPT (18/05/2026)
+- [trattativa_seb.md](trattativa_seb.md) — 🆕 Lagostina flagship: assistente virtuale instore; Davide Arduini contatta CEO Stefano Cau (21/05/2026)
 - [trattativa_fileni.md](trattativa_fileni.md) — ❌ Rinviata: no spazio 2026, riaggiornarsi luglio 2027 (19/05/2026)
 - [ma_restore.md](ma_restore.md) — M&A Restore/Be-Ready, meeting Zanotti 13/04/2026
 
@@ -59,4 +60,4 @@ aggiornato: 2026-05-12
 ## Brand
 - [brand.md](brand.md) — Brand identity, colori, linee guida
 
-*Aggiornato: 2026-05-19*
+*Aggiornato: 2026-05-22*

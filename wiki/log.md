@@ -7,6 +7,16 @@ aggiornato: 2026-05-19
 
 # Wiki Log — Next Different (NDU)
 
+## 2026-05-22 — Ingest email giornaliero
+
+- [INGEST] email 2026-05-21: 18 email rilevanti (account2 nextdifferent + account4 ambra)
+  - ndu: 18 email → pagine toccate:
+    - aggiornate: trattativa_parmalat.md (presentazione aggiornata graficamente da Fabio; punto Marco+Fabio 22/05 mattino), trattativa_electrolux.md (Amanda Frascolla confermata slot + guidelines ricevute; PoliMi integra dvg), trattativa_barilla.md (Fondazione Barilla richiede approfondimento dati audience), pipeline.md (nuove trattative: SEB/Lagostina, Montenegro, LG schermi; update Parmalat+Electrolux+FondazioneBarilla)
+    - create: trattativa_seb.md (🆕 Lagostina flagship, assistente virtuale, CEO Stefano Cau via Davide Arduini)
+  - account4 (ambra): 2 email calendar NDU (Barreca+Cosenza accettano meeting 29/05) → log nota
+  - Raw salvati: 8 file email NDU
+  - ⚠️ AZIONI: (1) Punto Fabio Berra 22/05 su presentazione Parmalat, (2) Call LG Schermi 26/05 ore 12:00 Cagnazzi+Bacchelli, (3) Annachiara risponde Fondazione Barilla con metodologia audience, (4) Francesco Bacchelli gestisce BR4 (Banchini in ferie 22/05), (5) Meeting 29/05 ore 9:00 Cosenza+Barreca confermato
+
 ## 2026-05-21 — Ingest email giornaliero
 
 - [INGEST] email 2026-05-20: 18 email rilevanti (account2 nextdifferent)
