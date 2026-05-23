@@ -2,7 +2,7 @@
 tipo: processo
 fonte: documento
 confidenza: alta
-aggiornato: 2026-05-21
+aggiornato: 2026-05-23
 ---
 
 # Operations — Modelli di Business & Preventivazione
@@ -86,7 +86,43 @@ Talenti approfondirà e tornerà con domande.
 
 ---
 
+---
+
+## Passaggio Consegne Retail Media — Adriano Lionetti → Davide Campilongo (22/05/2026)
+
+| Campo | Valore |
+|-------|--------|
+| Uscente | Adriano Lionetti (Tech Project Manager) |
+| Entrante | Davide Campilongo |
+| Perimetro | Gestione acquisti Retail Media |
+| Comunicazione a | Paolo Rebattoni, Amministrazione NDU |
+| Stato | ✅ Comunicato — presentazione formale settimana 25/05 |
+
+Adriano Lionetti ha formalmente comunicato il passaggio.
+Paolo Rebattoni suggerisce: settimana prossima riunione con Davide e Amministrazione (Barbara) per presentazione formale.
+Adriano risponde: ok per vie brevi.
+
+---
+
+## Riorganizzazione HR — Campilongo/Orlandini (22/05/2026)
+
+Marika Cecconi (HR) propone a Marco:
+1. Riunione con Marco + Annachiara Orlandini → proporre che Orlandini gestisca Davide Campilongo
+2. Poi riunione separata con Davide
+Marco ha approvato ("ottimo grazie").
+
+**Punto HR fissato**: 25/05/2026 ore 16:45-17:15 (Marika Cecconi, Marco, Annachiara Orlandini)
+
+| Persona | Ruolo aggiornato |
+|---------|-----------------|
+| Davide Campilongo | Acquisti Retail Media (prende da Adriano) |
+| Annachiara Orlandini | Manager di Campilongo (proposta HR, da confermare) |
+
+---
+
 ## Fonte
 `JarvisNEXT/knowledge-base/06_OPERATIONS/modelli-business.md`
 `ndu/raw/email/2026-05-20_iso-27001-disponibilita-marco.md`
 `ndu/raw/email/2026-05-20_talenti-new-business-dati.md`
+`ndu/raw/email/2026-05-22_17-11_passaggio-consegne-retail-media-lionetti.md`
+`ndu/raw/email/2026-05-22_13-52_orlandini-campilongo-cecconi.md`

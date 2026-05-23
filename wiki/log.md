@@ -2,10 +2,22 @@
 tipo: log
 fonte: manuale
 confidenza: alta
-aggiornato: 2026-05-19
+aggiornato: 2026-05-23
 ---
 
 # Wiki Log — Next Different (NDU)
+
+## 2026-05-23 — Ingest email giornaliero
+
+- [INGEST] email 2026-05-22: 18 email rilevanti (account2 nextdifferent)
+  - ndu: 18 email → pagine toccate:
+    - aggiornate: trattativa_electrolux.md (Amanda Frascolla fa "Check 0" internamente — risposta a breve; Cagnazzi: info aggiuntive ricevute da Electrolux)
+    - aggiornata: pipeline.md (Montenegro confermato 8 giu h16:30; Canedoli nuova call in preparazione; fatture NDU: Places Media +€86.600; formulazione offerta scadenza 30 giu; passaggio consegne Lionetti→Campilongo; HR Campilongo/Orlandini)
+    - aggiornata: partnership_mcube_uniting.md (MCube si è arenato dopo meeting 21/05; formulazione offerta Uniting scadenza 30 giu; Retail Media BU meeting 26/05)
+    - aggiornata: operations.md (passaggio consegne Retail Media Lionetti→Campilongo; HR Marika Cecconi propone Orlandini come manager Campilongo; Punto HR 25/05)
+    - creata: trattativa_montenegro.md (🆕 meeting confermato 8 giu 2026 h16:30 — Daniele De Angelis Head Mktg Core Brands)
+  - Allegati da recuperare: report gare e new business Paolo Laurito (5.6MB); formulazione offerta Sampietro (58KB)
+  - ⚠️ AZIONI: (1) Preparare presentazione Retail Media Hub per Montenegro entro 8 giu, (2) Formulazione offerta mercato per Uniting entro 30 giu (delega Matteo Cozzi), (3) Presentare Davide Campilongo ad Amministrazione settimana del 25/05, (4) Punto HR 25/05 ore 16:45 (Marika, Marco, Orlandini)
 
 ## 2026-05-22 — Ingest email giornaliero
 

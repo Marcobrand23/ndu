@@ -2,7 +2,7 @@
 tipo: stato
 fonte: documento
 confidenza: media
-aggiornato: 2026-05-22
+aggiornato: 2026-05-23
 ---
 
 # Pipeline Commerciale — BU Data & Retail
@@ -75,11 +75,23 @@ Henkel, Trenord, Q-Farma, Moby, Mediolanum, Unieuro, Parmalat, Kia, Euronics, Br
 | Cliente | Status | Ref. pagina |
 |---------|--------|-------------|
 | **SEB / Lagostina** | 🆕 Nuova — assistente virtuale instore flagship store; Davide Arduini contatta CEO Stefano Cau | → [trattativa_seb.md](trattativa_seb.md) |
-| **Montenegro (spirits)** | 🆕 Nuovo prospect — Luca Colombi (Uniting) intro Marco&Marco a Daniele De Angelis; date call da confermare | — |
+| **Montenegro (spirits)** | ✅ Meeting confermato — 8 giu 2026 ore 16:30 con Daniele De Angelis (Head of Mktg) | → [trattativa_montenegro.md](trattativa_montenegro.md) |
 | **LG Electronics (schermi)** | 🔄 Quotazione in corso — 20 vetrine window facing, prezzo LGE richiesto; call 26/05 ore 12-13 Cagnazzi+Bacchelli | — |
 | **Parmalat** | 🔄 Presentazione aggiornata graficamente (21/05); punto Marco+Fabio 22/05 mattino | → [trattativa_parmalat.md](trattativa_parmalat.md) |
 | **Electrolux / Bottega Certosa** | 🔄 Guidelines ricevute; slot confermato Amanda Frascolla (Uniting) + PoliMi | → [trattativa_electrolux.md](trattativa_electrolux.md) |
 | **Fondazione Barilla** | 🔄 Richiesta approfondimento dati audience — risposta con metodologia 100+ app mobile | → [trattativa_barilla.md](trattativa_barilla.md) |
+
+## Trattative / Operazioni — 22 Maggio 2026
+
+| Cliente / Operazione | Status | Note |
+|---------------------|--------|------|
+| **Montenegro (spirits)** | ✅ Meeting CONFERMATO 8 giu 16:30 | Daniele De Angelis (Head Mktg Core Brands); presentazione Retail Media Hub |
+| **Electrolux / Bottega Certosa** | 🟡 Uniting fa "Check 0" — risposta a breve | Info aggiuntive ricevute da Electrolux; tavolo di lavoro da aprire |
+| **Canedoli** | 🔄 Nuova call in preparazione | Berra+Napolitano preparano doc "nuovo approccio Retail Media" discusso nell'ultima riunione |
+| **Fatture ND S.p.A.** | ⚠️ Check in corso | Berra: tutto ok tranne hicmobile e zeotap (da verificare con Cozzi); Places Media +€86.600 ricavi |
+| **Formulazione offerta mercato** | 🚨 Scadenza 30 giugno 2026 | Sampietro (Uniting): offerta già implementata entro 30 giu; Marco B. delega a Matteo Cozzi |
+| **Passaggio Retail Media** | ✅ Completato | Adriano Lionetti → Davide Campilongo (acquisti Retail Media); presentare Davide ad Amministrazione sett. prossima |
+| **HR: Campilongo** | 🟡 In definizione | Marika Cecconi propone Annachiara Orlandini come manager di Campilongo; Punto HR 25/05 |
 
 ## Note
 - Aggiornare questa pagina dopo ogni INGEST di email/call/meeting commerciale

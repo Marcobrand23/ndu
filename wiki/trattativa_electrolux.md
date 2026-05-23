@@ -2,7 +2,7 @@
 tipo: contratto
 fonte: email
 confidenza: alta
-aggiornato: 2026-05-22
+aggiornato: 2026-05-23
 ---
 
 # Trattativa Electrolux — Store-in-Store Gara
@@ -87,6 +87,20 @@ Partecipanti confermati: Marco Cagnazzi (ND), Amanda Frascolla (Uniting), Emilio
 - [x] ~~Setup riunione settimana 18/05~~ → in corso
 - [ ] Risposta formale alla gara con Uniting + PoliMi
 - [ ] Integrare dvg spazio (PoliMi)
+
+## Aggiornamento — 22/05/2026
+
+Thread Follow-up Gara Electrolux (Cagnazzi ↔ Frascolla ↔ PoliMi):
+- **Marco Cagnazzi (17:30)**: referenti Electrolux hanno fornito le informazioni aggiuntive (v. thread dedicato con il cliente). Chiede ad Amanda come procedere per aprire il tavolo di lavoro.
+- **Amanda Frascolla/Uniting (17:37)**: procede internamente con **"Check 0"** e torna a stretto giro.
+  - CC: Emilio Bellini, Alessandro Biffi, Silvia Eleonora Castellazzi (PoliMi)
+
+**Stato aggiornato**: 🟡 Electrolux ha fornito info aggiuntive — Uniting fa Check 0 prima di aprire tavolo di lavoro
+
+**Next Steps:**
+- [ ] Attendere risposta Amanda Frascolla (Uniting) post Check 0
+- [ ] Aprire tavolo di lavoro formale per la gara
+- [ ] Risposta formale alla gara con Uniting + PoliMi
 
 ## Dipende da
 *Dipende da* → allineamento ND + Uniting sulla proposta di gara

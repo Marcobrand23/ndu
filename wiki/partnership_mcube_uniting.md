@@ -2,7 +2,7 @@
 tipo: entità
 fonte: email
 confidenza: alta
-aggiornato: 2026-05-19
+aggiornato: 2026-05-23
 ---
 
 # Partnership — MCube Digital + Uniting (via Zanotti)
@@ -123,10 +123,32 @@ Date proposte da Marco Zanardi (BeReady): 22, 25, 26, 28, 29 maggio.
 
 ---
 
+## Aggiornamento — 22/05/2026
+
+### Stato MCube dopo meeting 21/05
+Marco Cagnazzi a Fabio Berra (CC Marco Brandstetter):
+- Ci sono stati incontri e scambi con MCube
+- ~~Era stato individuato un progetto test~~ → **si è arenato lato MCube**
+- Cagnazzi ha provato a portare avanti senza successo
+- **Collaborazione MCube: probabilità bassa nel breve termine**
+
+### Formulazione offerta Uniting — Scadenza 30 GIUGNO 2026 🚨
+Giancarlo Sampietro (Uniting) → Marco Brandstetter:
+- Obiettivo: formulare un'offerta di mercato che deve essere operativa entro il **30 giugno 2026** (data uscita NDU)
+- Marco delega a Matteo Cozzi per lavorarci, vuole riunione prima di incontrare Emanuele (Mazzi)
+- Allegato: documento offerta
+
+### Retail Media Allineamento BU (26/05/2026 ore 14:00-15:00)
+- Convocato da Emanuele Mazzi (Uniting)
+- Partecipanti ND: Marco Brandstetter, Francesco Boano, Giovanni Cavatorta
+- Partecipanti Uniting: Francesco Simeoli, Emanuele Mazzi
+
 ## Dipende da
-- Accordo Nielsen → in stallo al 18/05
-- Meeting MCube/Uniting/ND → **21/05 pranzo Tortona** (confermato)
+- ~~Accordo Nielsen → in stallo al 18/05~~
+- ~~Meeting MCube/Uniting/ND → **21/05 pranzo Tortona**~~ → **✅ avvenuto**
+- MCube collaborazione → ⚠️ arenata
 - Kick-off piano lavoro NDU → da fissare (22-29 maggio)
+- Formulazione offerta mercato → **scadenza 30 giugno 2026**
 
 ## Riferimento a
 *Riferimento a* → [partnership_accenture.md](partnership_accenture.md) (Alessandro Zanotti = Accenture)
