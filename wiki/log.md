@@ -2,10 +2,21 @@
 tipo: log
 fonte: manuale
 confidenza: alta
-aggiornato: 2026-05-23
+aggiornato: 2026-05-24
 ---
 
 # Wiki Log — Next Different (NDU)
+
+## 2026-05-24 — Ingest email giornaliero
+
+- [INGEST] email 2026-05-23: 1 email rilevante (account2 nextdifferent)
+  - ndu: 1 email → pagine toccate:
+    - aggiornata: operations.md (Alessandro Talenti conferma ricezione dati new business BU; richiede call 10 min lunedì 25/05/2026 per verifica interpretazione)
+  - Allegati salvati: nessuno
+  - account1 (bluesky): 6 email Finaldraft "Workflow completed" → scartate (no-reply automatico)
+  - account3 (personal): 23 email → tutte scartate (automated/newsletter/noreply)
+  - account4 (ambra): 0 email rilevanti per NDU
+  - ⚠️ AZIONI: Call telefonica Marco ↔ Alessandro Talenti lunedì 25/05/2026 (10 min, verifica dati new business BU)
 
 ## 2026-05-23 — Ingest email giornaliero
 

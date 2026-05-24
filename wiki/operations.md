@@ -2,7 +2,7 @@
 tipo: processo
 fonte: documento
 confidenza: alta
-aggiornato: 2026-05-23
+aggiornato: 2026-05-24
 ---
 
 # Operations — Modelli di Business & Preventivazione
@@ -79,10 +79,15 @@ Richiede file periodico con dati new business dalla BU Data & Retail (ND).
 |-------|--------|
 | Richiedente | Alessandro Talenti (CEO Uniting) |
 | CC | Roberto Frassinelli (ND) |
-| Stato | 🟡 In definizione — Talenti prepara il file template |
+| Stato | 🟡 Dati inviati — call lunedì 25/05 per verifica interpretazione |
 
 Marco ha chiarito che la BU fornisce obiettivo new biz a inizio anno e poi lo monitora.
-Talenti approfondirà e tornerà con domande.
+Marco ha risposto prontamente con i dati richiesti (21/05/2026 sera).
+
+**23/05/2026**: Talenti risponde ringraziando per la rapidità e chiede una call di 10 minuti **lunedì 25/05/2026** per verificare di aver interpretato correttamente i dati ricevuti.
+
+**Next step**: Call telefonica Marco ↔ Talenti lunedì 25/05/2026 (10 min).
+~~🟡 In definizione — Talenti prepara il file template~~ → 🟡 Dati inviati — call lunedì 25/05 per verifica interpretazione (2026-05-23)
 
 ---
 
