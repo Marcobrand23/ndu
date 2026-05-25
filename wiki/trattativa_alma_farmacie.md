@@ -2,7 +2,7 @@
 tipo: contratto
 fonte: email
 confidenza: alta
-aggiornato: 2026-05-18
+aggiornato: 2026-05-24
 ---
 
 # Trattativa — Alma Farmacie (via Pharma-Green)
@@ -56,6 +56,26 @@ Marta ha ricevuto la presentazione in PDF — chiede il formato PowerPoint.
 
 **Azione aperta**:
 - [ ] **Inviare presentazione in formato PPT** (non PDF) — a cura di Marco Cagnazzi
+
+---
+
+## Aggiornamento — 24/05/2026 — Contatto Publitalia
+
+**Nuovo sviluppo**: Davide Arduini (Founder e AD Next Different) sta procedendo personalmente a contattare **Publitalia** per Alma Farmacie / Pharma Green Holding.
+
+> "Ciao Marco, Procedo e ti tengo aggiornato."
+
+- La trattativa si allarga oltre Sky Media: ora anche **Publitalia** come potenziale partner media
+- Davide Arduini gestisce direttamente il contatto (CC Marco Brandstetter, TO Marco Cagnazzi)
+- Prossimo step: aggiornamento da Davide quando avrà risposta Publitalia
+
+**Tabella contatti aggiornata**:
+
+| Persona | Affiliazione | Ruolo |
+|---------|--------------|-------|
+| Davide Arduini | NDU | Founder/AD — gestisce contatto Publitalia |
+| Marco Cagnazzi | NDU | Account Alma Farmacie |
+| Marco Brandstetter | NDU | CC / supervisione |
 
 ---
 

@@ -2,10 +2,18 @@
 tipo: log
 fonte: manuale
 confidenza: alta
-aggiornato: 2026-05-24
+aggiornato: 2026-05-25
 ---
 
 # Wiki Log — Next Different (NDU)
+
+## 2026-05-25 — Ingest email giornaliero
+
+- [INGEST] email 2026-05-24: 1 email rilevante (account2 nextdifferent)
+  - ndu: 1 email → pagine toccate:
+    - aggiornata: trattativa_alma_farmacie.md (Davide Arduini procede con contatto Publitalia per Alma Farmacie/Pharma Green Holding — nuovo partner media oltre Sky Media)
+  - Allegati salvati: nessuno
+  - Raw salvati: 1 file NDU
 
 ## 2026-05-24 — Ingest email giornaliero
 
