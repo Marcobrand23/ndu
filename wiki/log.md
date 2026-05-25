@@ -7,6 +7,14 @@ aggiornato: 2026-05-25
 
 # Wiki Log — Next Different (NDU)
 
+## 2026-05-25 — Ingest email giornaliero (secondo passaggio)
+
+- [INGEST] email 2026-05-25 (secondo passaggio): nessuna email nuova rilevante per NDU.
+  - account2 (nextdifferent): 7 email — 6 newsletter/promo/automated, 1 Davide Arduini già processata nel primo passaggio
+  - account1 (bluesky): 2 email — entrambe già processate o scartate
+  - account3 (personal): 23 email — tutte newsletter/promo/automated
+  - Allegati salvati: nessuno
+
 ## 2026-05-25 — Ingest email giornaliero
 
 - [INGEST] email 2026-05-24: 1 email rilevante (account2 nextdifferent)
