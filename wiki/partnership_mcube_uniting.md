@@ -138,17 +138,34 @@ Giancarlo Sampietro (Uniting) → Marco Brandstetter:
 - Marco delega a Matteo Cozzi per lavorarci, vuole riunione prima di incontrare Emanuele (Mazzi)
 - Allegato: documento offerta
 
-### Retail Media Allineamento BU (26/05/2026 ore 14:00-15:00)
-- Convocato da Emanuele Mazzi (Uniting)
-- Partecipanti ND: Marco Brandstetter, Francesco Boano, Giovanni Cavatorta
-- Partecipanti Uniting: Francesco Simeoli, Emanuele Mazzi
+### ~~Retail Media Allineamento BU (26/05/2026 ore 14:00-15:00)~~
+~~Convocato da Emanuele Mazzi (Uniting)~~ → **CANCELLATO 25/05/2026**
+Motivazione Mazzi: "Elimino questa riunione in virtù di quella di giovedì sul backlog"
+
+### Retail Media Backlog (28/05/2026 ore 16:00-17:00) 🆕
+- Convocato da Emanuele Mazzi (Uniting) — "Iniziamo a costruire il Backlog del Retail Media"
+- Partecipanti ND: Marco Brandstetter, Giovanni Cavatorta
+- Data: **giovedì 28 maggio 2026, 16:00-17:00 CEST**
+
+## Aggiornamento — 25/05/2026
+
+### Footfall Milano — Esito positivo
+- Dashboard footfall NDU condivisa con cliente (Uniting/Agarossi per progetto cliente)
+- La condivisione dati ha convinto il cliente sulla scelta della piazza in Milano per giugno 2025
+- Davide Agarossi: "efficaci e funzionali per la decisione della piazza dove posizionare il progetto"
+- Marco: "tra poco tutto questo diventerà la normale erogazione del servizio"
+
+### Meeting Retail preparatorio Valsoia (26/05 — oggi)
+- Alessandro Talenti ha organizzato "Meeting retail" per oggi 26/05, ore 8:30-9:30
+- Partecipanti: Marco Brandstetter, Alessandro Zanotti, Giancarlo Sampietro (Uniting)
 
 ## Dipende da
 - ~~Accordo Nielsen → in stallo al 18/05~~
 - ~~Meeting MCube/Uniting/ND → **21/05 pranzo Tortona**~~ → **✅ avvenuto**
 - MCube collaborazione → ⚠️ arenata
-- Kick-off piano lavoro NDU → da fissare (22-29 maggio)
 - Formulazione offerta mercato → **scadenza 30 giugno 2026**
+- ~~Kick-off piano lavoro NDU → da fissare (22-29 maggio)~~
+- **Retail Media Backlog meeting → 28/05/2026 ore 16:00**
 
 ## Riferimento a
 *Riferimento a* → [partnership_accenture.md](partnership_accenture.md) (Alessandro Zanotti = Accenture)

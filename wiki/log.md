@@ -7,6 +7,17 @@ aggiornato: 2026-05-25
 
 # Wiki Log — Next Different (NDU)
 
+## 2026-05-26 — Ingest email giornaliero
+
+- [INGEST] email 2026-05-25: 19 email rilevanti (account2 nextdifferent + account3 personal)
+  - ndu: 19 email → pagine toccate:
+    - aggiornata: trattativa_valsoia.md (meeting confermato 27/05 Bologna — logistica, team, documenti pronti)
+    - aggiornata: trattativa_edenred.md (presentazione in revisione — Bacchelli + Benedini)
+    - aggiornata: partnership_mcube_uniting.md (footfall Milano positivo; meeting retail 26/05; Retail Media BU cancellato; Retail Media Backlog 28/05; Fancy Truck tecnico)
+  - Raw salvati: 7 file (email/2026-05-25_valsoia-meeting-27-bologna.md, email/2026-05-25_footfall-uniting-positivo.md, email/2026-05-25_edenred-presentazione-bacchelli.md, email/2026-05-25_retail-media-backlog-mazzi.md, email/2026-05-25_br4-numeri-bacchelli.md, email/2026-05-25_plaud-pipeline-barilla-farmagreen-lego.md, email/2026-05-25_plaud-commerciale-settimanale.md, email/2026-05-22_plaud-passaggio-consegne-adriano.md)
+  - Allegati salvati: nessuno
+  - ⚠️ AZIONI: Approvare presentazione Edenred; Meeting Valsoia mercoledì 27/05 ore 11:30 Bologna; Retail Media Backlog giovedì 28/05 ore 16:00
+
 ## 2026-05-25 — Ingest email giornaliero (secondo passaggio)
 
 - [INGEST] email 2026-05-25 (secondo passaggio): nessuna email nuova rilevante per NDU.
