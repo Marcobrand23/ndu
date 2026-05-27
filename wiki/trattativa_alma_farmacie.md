@@ -2,7 +2,7 @@
 tipo: contratto
 fonte: email
 confidenza: alta
-aggiornato: 2026-05-24
+aggiornato: 2026-05-27
 ---
 
 # Trattativa — Alma Farmacie (via Pharma-Green)
@@ -79,6 +79,18 @@ Marta ha ricevuto la presentazione in PDF — chiede il formato PowerPoint.
 
 ---
 
+## Aggiornamento — 27/05/2026 — DPO: cambio entità contrattuale
+
+**Marta Bezzoli** (Pharma-Green) comunica aggiornamento dalla DPO:
+- Il contratto di servizi che **Next Different spa** produrrà sarà sottoscritto con **Alma Farmacie Group spa** (non pharma-green.it come ipotizzato)
+- Pharma-Green sta guardando la presentazione e il preventivo NDU → risponderanno
+
+⚠️ **Azione**: aggiornare intestazione contratto con entità "Alma Farmacie Group spa"
+
+**Status check (27/05)**:
+- Guardiamo la presentazione/preventivo → Pharma-Green attende risposta interna
+- DPO ha verificato e confermato entità contrattuale corretta
+
 ## Connessioni
 - *Riferimento a* → [partnership_mcube_uniting.md](partnership_mcube_uniting.md) (Piano Retail Media PGH già citato)
 - *Riferimento a* → [pipeline.md](pipeline.md) (da aggiungere)
@@ -86,3 +98,4 @@ Marta ha ricevuto la presentazione in PDF — chiede il formato PowerPoint.
 ## Fonte
 `NDU/raw/email/2026-05-14_20-07_cagnazzi-alma-farmacie-skymedia-offerta.md`
 `NDU/raw/email/2026-05-18_alma-farmacie-status.md`
+`NDU/raw/email/2026-05-27_alma-farmacie-dpo-contratto.md`

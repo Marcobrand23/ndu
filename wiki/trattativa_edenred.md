@@ -56,7 +56,7 @@ Edenred porta dati di qualità su dipendenti (segmento B2B2C), complementare al 
 - NDA: "da compilare e firmare senza apportare modifiche al testo"
 - Davide Arduini: "Domani vi mandiamo tutto" (27/05/2026)
 
-**🚨 AZIONE RICHIESTA**: NDU deve firmare e restituire l'NDA entro 27/05/2026
+~~**🚨 AZIONE RICHIESTA**: NDU deve firmare e restituire l'NDA entro 27/05/2026~~ → ✅ NDA firmato e inviato a Edenred in data 27/05/2026
 
 ## Contatti Edenred (completi)
 
@@ -74,9 +74,17 @@ Edenred porta dati di qualità su dipendenti (segmento B2B2C), complementare al 
 - [x] ~~Identificare referente commerciale Edenred~~ → Matteo DE MARCHI
 - [x] ~~Approvare presentazione (Marco + Cristina)~~ → Slide finali condivise 26/05
 - [x] ~~Preparare proposta di valore finale~~ → Meeting avvenuto 26/05
-- [🚨] **Firmare e restituire NDA** → entro 27/05/2026 (Davide Arduini conferma)
-- [ ] Preparare materiale tecnico da inviare a Edenred 27/05/2026
+- [x] ~~Firmare e restituire NDA~~ → ✅ NDA firmato da Roberta Ferrari (Amm. ND) il 27/05/2026 e inviato a Edenred da Matteo Cozzi
+- [ ] **Ricevere controfirma Edenred** — NDA inviato, in attesa risposta
+- [ ] Preparare materiale tecnico da inviare a Edenred
 - [ ] Verificare compatibilità GDPR tra dati Edenred e Grid NDU
+
+## Aggiornamento — 27/05/2026 — NDA firmato
+
+- Roberta Ferrari (Administration Assistant ND) ha compilato e firmato il documento NDA
+- Matteo Cozzi ha inviato il documento firmato a tutti i referenti Edenred (DE MARCHI, MATTIOLI, BORROMEO, VITALI, PALERMO, CIRILLO)
+- Richiesta di controfirma Edenred pendente
+- Biz Review P4 (Data&Physical Retail) del 27/05 rinviata per indisponibilità partecipanti chiave (PLAUD T37)
 
 ---
 
@@ -86,3 +94,4 @@ Edenred porta dati di qualità su dipendenti (segmento B2B2C), complementare al 
 `NDU/raw/email/2026-05-26_edenred-nda-de-marchi.md`
 `NDU/raw/email/2026-05-26_edenred-arduini-domani-mandiamo-tutto.md`
 `NDU/raw/email/2026-05-26_edenred-slide-finali-cozzi.md`
+`NDU/raw/email/2026-05-27_edenred-nda-firmato-roberta-ferrari.md`

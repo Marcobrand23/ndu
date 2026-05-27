@@ -2,7 +2,7 @@
 tipo: contratto
 fonte: email
 confidenza: alta
-aggiornato: 2026-05-21
+aggiornato: 2026-05-27
 ---
 
 # Trattativa — Unieuro
@@ -90,7 +90,18 @@ Situazione riscontrata:
 
 **Account**: Marco Cagnazzi (referente commerciale Unieuro lato ND).
 
+## Aggiornamento — 27/05/2026 — Cross Selling + Avanzamento Arena TV
+
+**Good news dal fronte** (email Marco Brandstetter → Talenti, Colombi, Brancaleone, Cagnazzi):
+- **Marco Titi** (referente Unieuro) ha chiamato proattivamente
+- Avanzamento sulla proposta per **monitoraggio interno delle arene tv**
+- Nuova richiesta di **cross selling** (servizi aggiuntivi — dettagli da definire)
+- Cliente proattivo e interessato
+
+→ Unieuro si muove in modo costruttivo: sia operativo (monitoraggio arene) che espansivo (cross selling).
+
 ## Connessioni
 - **Bip/Officina** — interview pregresse legate a Unieuro
 - **Percassi Retail** — possibile coinvolgimento successivo
 - `ndu/raw/email/2026-05-20_unieuro-vetrine-fattura-emessa.md`
+- `ndu/raw/email/2026-05-27_unieuro-cross-selling-titi.md`

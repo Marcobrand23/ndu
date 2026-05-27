@@ -7,6 +7,19 @@ aggiornato: 2026-05-25
 
 # Wiki Log — Next Different (NDU)
 
+## 2026-05-27 — Ingest email giornaliero (sera)
+
+- [INGEST] email 2026-05-27: 20 email rilevanti (account2 nextdifferent + account3 personal)
+  - ndu: 20 email → pagine toccate:
+    - aggiornata: trattativa_edenred.md (✅ NDA firmato da Roberta Ferrari e inviato a Edenred 27/05; controfirma Edenred pendente; Biz Review P4 rinviata)
+    - aggiornata: trattativa_unieuro.md (good news: Marco Titi chiama proattivamente — avanzamento arene tv + richiesta cross selling)
+    - aggiornata: trattativa_alma_farmacie.md (DPO Pharma-Green: contratto da fare con Alma Farmacie Group spa, non pharma-green.it; guardano presentazione/preventivo)
+    - aggiornata: partnership_mcube_uniting.md (Zanotti: "partiti operativi" su deal; LG/DMO nuovo opportunità via Durante; footfall consegnato; Biz Review P4 rinviata)
+    - aggiornata: imu_2026.md (F24 Filippo Ambrosi — Marco non deve versare; Filippo sì entro 16/06)
+  - Raw salvati: 9 file (email/2026-05-27_unieuro-cross-selling-titi.md, email/2026-05-27_lg-electronics-gruppo-dmo-durante.md, email/2026-05-27_edenred-nda-firmato-roberta-ferrari.md, email/2026-05-27_alma-farmacie-dpo-contratto.md, email/2026-05-27_zanotti-talenti-approccio-trasparenza.md, email/2026-05-27_br4-data-retail-bacchelli.md, email/2026-05-27_sensori-prossimita-enrica.md, email/2026-05-27_plaud-biz-review-rinviata.md, + imu via gestione raw)
+  - Allegati salvati: nessuno
+  - ⚠️ AZIONI URGENTI: (1) Meeting Zanotti/Talenti/Sampietro **3 giugno ore 16:00**; (2) Retail Media Backlog **28/05 ore 16:00**; (3) LG/DMO: Fabio Berra sente Boccadifuoco; (4) Edenred: attendere controfirma NDA; (5) Alma Farmacie: aggiornare intestazione contratto con "Alma Farmacie Group spa"
+
 ## 2026-05-27 — Ingest email giornaliero
 
 - [INGEST] email 2026-05-26: 15 email rilevanti (account2 nextdifferent)

@@ -2,7 +2,7 @@
 tipo: entità
 fonte: email
 confidenza: alta
-aggiornato: 2026-05-23
+aggiornato: 2026-05-27
 ---
 
 # Partnership — MCube Digital + Uniting (via Zanotti)
@@ -172,6 +172,27 @@ Meeting ore 8:30-9:30 ha prodotto la sintesi di Alessandro Zanotti:
 - Partecipanti: Marco Brandstetter (ND), Alessandro Zanotti, Alessandro Talenti, Giancarlo Sampietro (Uniting/KiwiDigital)
 - Obiettivo: follow-up meeting retail e definizione focus conversational signage
 
+## Aggiornamento — 27/05/2026
+
+### Zanotti: "partiti operativi" su deal / partnership
+- Alessandro Talenti → Zanotti: "approccio di trasparenza" (continuano con Marco)
+- Alessandro Zanotti → Talenti: **"siamo partiti anche operativi con Marco su qualche deal / partnership anche operativi! Proviamo nella missione di tenere 'calda' la [relazione]"**
+- ✅ Meeting 3 giugno confermato da Marco Ferrari: "segnato il 3 Giugno dalle 16 alle 17"
+
+### Biz Review P4 rinviata
+- Biz Review P4 Data&Physical Retail del 27/05 **RINVIATA** per indisponibilità partecipanti chiave
+- PLAUD T37 registra il rinvio — dettagli nuovo slot non ancora comunicati
+
+### Nuova opportunità: LG Electronics / Gruppo DMO (via Durante)
+- Matteo Sangalli (Durante/Var Group) ha inviato a Marco un'opportunità riservata: **monitor LG per Gruppo DMO**
+- Marco ha coinvolto Fabio Berra
+- Fabio Berra: monitor 43" per totem dovrebbe essere touch — offerta LG limitata ai monitor
+- Prossimo passo: Fabio sente Boccadifuoco (referente LG/Durante) per chiarire
+
+### Footfall Milano — Consegna completata
+- Matteo Cozzi ha inviato il file con dati footfall a Davide Agarossi (Uniting)
+- Chiusura del pending da Agarossi del 25/05
+
 ## Dipende da
 - ~~Accordo Nielsen → in stallo al 18/05~~
 - ~~Meeting MCube/Uniting/ND → **21/05 pranzo Tortona**~~ → **✅ avvenuto**
@@ -180,11 +201,13 @@ Meeting ore 8:30-9:30 ha prodotto la sintesi di Alessandro Zanotti:
 - ~~Kick-off piano lavoro NDU → da fissare (22-29 maggio)~~
 - **Retail Media Backlog meeting → 28/05/2026 ore 16:00**
 - **Meeting Zanotti/Talenti/Sampietro → 3 giugno 2026 ore 16:00**
+- LG/DMO opportunità → da definire con Boccadifuoco (Fabio Berra)
 
 ## Riferimento a
 *Riferimento a* → [partnership_accenture.md](partnership_accenture.md) (Alessandro Zanotti = Accenture)
 *Riferimento a* → [trattativa_valsoia.md](trattativa_valsoia.md)
 *Riferimento a* → [trattativa_electrolux.md](trattativa_electrolux.md)
+*Riferimento a* → [cliente_durante.md](cliente_durante.md) (LG/DMO opportunità via Durante/Var)
 
 ## Fonte
 `NDU/raw/2026-05-11_uniting-mcube-intro.md`
@@ -196,3 +219,5 @@ Meeting ore 8:30-9:30 ha prodotto la sintesi di Alessandro Zanotti:
 `NDU/raw/email/2026-05-18_kiwi-digital-weekly.md`
 `NDU/raw/email/2026-05-26_zanotti-sintesi-meeting-retail.md`
 `NDU/raw/email/2026-05-26_zanotti-meeting-retail-mercoledi-3giu.md`
+`NDU/raw/email/2026-05-27_zanotti-talenti-approccio-trasparenza.md`
+`NDU/raw/email/2026-05-27_lg-electronics-gruppo-dmo-durante.md`
