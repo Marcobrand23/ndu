@@ -2,7 +2,7 @@
 tipo: processo
 fonte: documento
 confidenza: alta
-aggiornato: 2026-05-24
+aggiornato: 2026-05-27
 ---
 
 # Operations — Modelli di Business & Preventivazione
@@ -117,11 +117,61 @@ Marika Cecconi (HR) propone a Marco:
 Marco ha approvato ("ottimo grazie").
 
 **Punto HR fissato**: 25/05/2026 ore 16:45-17:15 (Marika Cecconi, Marco, Annachiara Orlandini)
+**Punto HR 26/05**: nuova call organizzata da Marika Cecconi (Punto HR — 26/05 ore 16:30-17:00)
 
 | Persona | Ruolo aggiornato |
 |---------|-----------------|
 | Davide Campilongo | Acquisti Retail Media (prende da Adriano) |
 | Annachiara Orlandini | Manager di Campilongo (proposta HR, da confermare) |
+
+---
+
+## Biz Review BU Data & Retail — 27/05/2026
+
+| Campo | Valore |
+|-------|--------|
+| Data | 27 maggio 2026 |
+| Responsabili documento | Roberto Frassinelli, Cristina Benedini, Marco Brandstetter |
+| Stato | 🟡 In preparazione — manca sezione Visibility D&R |
+
+**26/05/2026** — Thread interno:
+- Cristina Benedini chiede a Roberto Frassinelli di girare il file della biz review a Marco per commenti qualitativi
+- Frassinelli: lavorerà al documento più tardi, chiede che gli mandino la parte qualitativa
+- Benedini: "A me nulla è cambiato rispetto all'ultima volta. Si rimuoverà a fine giugno."
+- Frassinelli: "Manca solo visibility D&R"
+
+**Gap identificato**: sezione *Visibility D&R* da completare prima della review
+
+---
+
+## Game On — Evento ND (maggio-giugno 2026)
+
+| Campo | Valore |
+|-------|--------|
+| Contatto interno | Paolo Laurito (paolo.laurito@nextdifferent.com) |
+| CC | Giada Rizzi, Chiara Bardellotto, Francesco Incerpi, Matteo Cozzi |
+
+**26/05/2026** — Paolo Laurito chiede a Marco una risposta per l'evento "Game On":
+> "La vostra soluzione tecnologica proprietaria, il conversational signage porta negli eventi fisici capacità tipiche del digitale, soprattutto in termini [di...]"
+
+Marco ha risposto: "Grazie mille" — risposta formale preparata per l'evento.
+Contesto: posizionamento conversational signage per eventi fisici come "Game On".
+
+---
+
+## L2 Soluzioni — Contratto Fasce di Sconto NEXT
+
+| Campo | Valore |
+|-------|--------|
+| Cliente/Prospect | L2 Soluzioni (l2soluzioni.com) |
+| Contatto ND | Annachiara Orlandini |
+| Contatti L2 | Sara Santori (Project Manager, M. +39 392 031 2380), Roberto Stracqualursi, Andrea Troiani, Luca Morrone |
+| Oggetto | Ipotesi fasce di sconto per piattaforma NEXT |
+| Stato | 🟡 In attesa disponibilità per firma |
+
+**Contesto**: L2 Soluzioni è in trattativa con NDU per "fasce di sconto" sulla piattaforma NEXT.
+Annachiara Orlandini non riceveva risposta da settimane.
+**26/05/2026**: Sara Santori risponde: "ho allineato Luca [Morrone] che non era in copia, a breve vi mandiamo un paio di disponibilità."
 
 ---
 
@@ -131,3 +181,6 @@ Marco ha approvato ("ottimo grazie").
 `ndu/raw/email/2026-05-20_talenti-new-business-dati.md`
 `ndu/raw/email/2026-05-22_17-11_passaggio-consegne-retail-media-lionetti.md`
 `ndu/raw/email/2026-05-22_13-52_orlandini-campilongo-cecconi.md`
+`NDU/raw/email/2026-05-26_biz-review-benedini-frassinelli.md`
+`NDU/raw/email/2026-05-26_game-on-laurito.md`
+`NDU/raw/email/2026-05-26_l2soluzioni-fasce-sconto-santori.md`

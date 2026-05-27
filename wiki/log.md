@@ -7,6 +7,17 @@ aggiornato: 2026-05-25
 
 # Wiki Log — Next Different (NDU)
 
+## 2026-05-27 — Ingest email giornaliero
+
+- [INGEST] email 2026-05-26: 15 email rilevanti (account2 nextdifferent)
+  - ndu: 15 email → pagine toccate:
+    - aggiornata: trattativa_edenred.md (🚨 NDA inviato da DE MARCHI Matteo post-meeting 26/05 — NDU deve firmare entro 27/05; contatti Edenred completi; Arduini: "domani mandiamo tutto"; slide finali Cozzi condivise)
+    - aggiornata: partnership_mcube_uniting.md (meeting retail 26/05 ore 8:30 avvenuto — sintesi Zanotti: focus conversational signage; meeting confermato 3 giugno ore 16-17)
+    - aggiornata: operations.md (biz review 27/05 — manca sezione Visibility D&R; Game On event info; L2 Soluzioni fasce di sconto — risposta dopo settimane di silenzio)
+  - Raw salvati: 7 file (email/2026-05-26_edenred-nda-de-marchi.md, email/2026-05-26_edenred-arduini-domani-mandiamo-tutto.md, email/2026-05-26_zanotti-meeting-retail-mercoledi-3giu.md, email/2026-05-26_biz-review-benedini-frassinelli.md, email/2026-05-26_zanotti-sintesi-meeting-retail.md, email/2026-05-26_edenred-slide-finali-cozzi.md, email/2026-05-26_l2soluzioni-fasce-sconto-santori.md)
+  - Allegati salvati: nessuno (NDA Edenred: allegato Word — attachment ID non estratto)
+  - ⚠️ AZIONI URGENTI: (1) 🚨 Firmare e restituire NDA Edenred entro 27/05/2026; (2) Meeting Zanotti/Talenti/Sampietro 3 giugno ore 16:00; (3) Completare Visibility D&R per biz review; (4) Attendere disponibilità L2 Soluzioni per firma contratto
+
 ## 2026-05-26 — Ingest email giornaliero
 
 - [INGEST] email 2026-05-25: 19 email rilevanti (account2 nextdifferent + account3 personal)

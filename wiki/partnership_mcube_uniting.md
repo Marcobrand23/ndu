@@ -159,6 +159,19 @@ Motivazione Mazzi: "Elimino questa riunione in virtù di quella di giovedì sul 
 - Alessandro Talenti ha organizzato "Meeting retail" per oggi 26/05, ore 8:30-9:30
 - Partecipanti: Marco Brandstetter, Alessandro Zanotti, Giancarlo Sampietro (Uniting)
 
+## Aggiornamento — 26/05/2026
+
+### Meeting Retail 26/05 — Sintesi Zanotti
+Meeting ore 8:30-9:30 ha prodotto la sintesi di Alessandro Zanotti:
+- **Focus short-term**: conversational signage come primo hook commerciale per il mercato
+- Partecipanti: Marco Brandstetter (ND), Alessandro Zanotti, Alessandro Talenti (Uniting), Giancarlo Sampietro (Uniting/Kiwi Digital)
+- **Next step confermato**: Zanotti propone e conferma meeting mercoledì **3 giugno 2026 ore 16-17**
+
+### Meeting confermato: 3 giugno 2026 ore 16-17
+- Confermato da Alessandro Zanotti il 26/05: "facciamo mer 3 16-17 ok insieme? accendiamo?"
+- Partecipanti: Marco Brandstetter (ND), Alessandro Zanotti, Alessandro Talenti, Giancarlo Sampietro (Uniting/KiwiDigital)
+- Obiettivo: follow-up meeting retail e definizione focus conversational signage
+
 ## Dipende da
 - ~~Accordo Nielsen → in stallo al 18/05~~
 - ~~Meeting MCube/Uniting/ND → **21/05 pranzo Tortona**~~ → **✅ avvenuto**
@@ -166,6 +179,7 @@ Motivazione Mazzi: "Elimino questa riunione in virtù di quella di giovedì sul 
 - Formulazione offerta mercato → **scadenza 30 giugno 2026**
 - ~~Kick-off piano lavoro NDU → da fissare (22-29 maggio)~~
 - **Retail Media Backlog meeting → 28/05/2026 ore 16:00**
+- **Meeting Zanotti/Talenti/Sampietro → 3 giugno 2026 ore 16:00**
 
 ## Riferimento a
 *Riferimento a* → [partnership_accenture.md](partnership_accenture.md) (Alessandro Zanotti = Accenture)
@@ -180,3 +194,5 @@ Motivazione Mazzi: "Elimino questa riunione in virtù di quella di giovedì sul 
 `NDU/raw/email/2026-05-17_mcube-uniting-meeting-confermato.md`
 `NDU/raw/email/2026-05-18_zanotti-piano-crescita-retail-media.md`
 `NDU/raw/email/2026-05-18_kiwi-digital-weekly.md`
+`NDU/raw/email/2026-05-26_zanotti-sintesi-meeting-retail.md`
+`NDU/raw/email/2026-05-26_zanotti-meeting-retail-mercoledi-3giu.md`

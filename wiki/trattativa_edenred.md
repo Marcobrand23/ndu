@@ -2,7 +2,7 @@
 tipo: entità
 fonte: email
 confidenza: media
-aggiornato: 2026-05-26
+aggiornato: 2026-05-27
 ---
 
 # Trattativa — Edenred
@@ -44,11 +44,38 @@ Edenred porta dati di qualità su dipendenti (segmento B2B2C), complementare al 
 - Contenuto base già sviluppato da Matteo Cozzi
 - Marco Brandstetter e Cristina Benedini come destinatari per approvazione
 
+## Aggiornamento — 26/05/2026 — MEETING + NDA
+
+### Meeting avvenuto 26/05/2026
+- Davide Arduini, Cristina Benedini, Marco Brandstetter presenti per NDU
+- Team Edenred: Matteo DE MARCHI, Giovanni MATTIOLI, Giovanni BORROMEO, Riccardo Giordano VITALI, Veronica PALERMO, Maria Laura CIRILLO
+- Slide finali preparate da Matteo Cozzi e condivise con team prima del meeting
+
+### NDA inviato da Edenred
+- Matteo DE MARCHI (Edenred) invia NDA (Accordo di Non Divulgazione) post-meeting
+- NDA: "da compilare e firmare senza apportare modifiche al testo"
+- Davide Arduini: "Domani vi mandiamo tutto" (27/05/2026)
+
+**🚨 AZIONE RICHIESTA**: NDU deve firmare e restituire l'NDA entro 27/05/2026
+
+## Contatti Edenred (completi)
+
+| Nome | Email | Ruolo |
+|------|-------|-------|
+| Matteo DE MARCHI | Matteo.DE-MARCHI@edenred.com | Referente principale |
+| Giovanni MATTIOLI | Giovanni.MATTIOLI@edenred.com | — |
+| Giovanni BORROMEO | Giovanni.BORROMEO@edenred.com | — |
+| Riccardo Giordano VITALI | Riccardo.VITALI@edenred.com | — |
+| Veronica PALERMO | Veronica.PALERMO@edenred.com | — |
+| Maria Laura CIRILLO | marialaura.CIRILLO@edenred.com | — |
+
 ## Next Steps
 
-- [x] ~~Identificare referente commerciale Edenred~~ → Francesco Bacchelli è lead della presentazione
-- [ ] Approvare presentazione (Marco + Cristina)
-- [ ] Preparare proposta di valore finale (data overlay + campagne proximity)
+- [x] ~~Identificare referente commerciale Edenred~~ → Matteo DE MARCHI
+- [x] ~~Approvare presentazione (Marco + Cristina)~~ → Slide finali condivise 26/05
+- [x] ~~Preparare proposta di valore finale~~ → Meeting avvenuto 26/05
+- [🚨] **Firmare e restituire NDA** → entro 27/05/2026 (Davide Arduini conferma)
+- [ ] Preparare materiale tecnico da inviare a Edenred 27/05/2026
 - [ ] Verificare compatibilità GDPR tra dati Edenred e Grid NDU
 
 ---
@@ -56,3 +83,6 @@ Edenred porta dati di qualità su dipendenti (segmento B2B2C), complementare al 
 ## Fonte
 `NDU/raw/2026-05-08_12-08_plaud-edenred-retail-media-geo.md`
 `NDU/raw/email/2026-05-25_edenred-presentazione-bacchelli.md`
+`NDU/raw/email/2026-05-26_edenred-nda-de-marchi.md`
+`NDU/raw/email/2026-05-26_edenred-arduini-domani-mandiamo-tutto.md`
+`NDU/raw/email/2026-05-26_edenred-slide-finali-cozzi.md`
