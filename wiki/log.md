@@ -7,6 +7,14 @@ aggiornato: 2026-05-25
 
 # Wiki Log — Next Different (NDU)
 
+## 2026-05-27 — Ingest email giornaliero (tarda sera)
+
+- [INGEST] email 2026-05-27: 3 email nuove + 1 PLAUD non processata (email tardive 19:14 CEST + PLAUD mattina)
+  - ndu: 4 email → pagine toccate:
+    - aggiornata: operations.md (Paolo Laurito: file master NB report integrato ND+Uniting condiviso, meeting 28/05 ore 17:00; PLAUD: problema standardizzazione flusso presentazioni)
+  - Raw salvati: 4 file (email/2026-05-27_19-14_laurito-new-business-report.md, email/2026-05-27_19-14_arduini-retail-media-farmacia.md, email/2026-05-27_09-59_plaud-coordinamento-presentazioni.md, email/2026-05-27_19-14_laurito-new-business-report.md)
+  - Allegati salvati: nessuno
+
 ## 2026-05-27 — Ingest email giornaliero (sera)
 
 - [INGEST] email 2026-05-27: 20 email rilevanti (account2 nextdifferent + account3 personal)

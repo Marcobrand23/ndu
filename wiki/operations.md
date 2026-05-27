@@ -175,6 +175,45 @@ Annachiara Orlandini non riceveva risposta da settimane.
 
 ---
 
+## New Business Report Integrato ND+Uniting (27/05/2026)
+
+| Campo | Valore |
+|-------|--------|
+| Promotore | Paolo Laurito (paolo.laurito@nextdifferent.com) |
+| Destinatari | Marco Brandstetter, Francesco Bacchelli, Elisa Brancaleone (Uniting) |
+| Stato | 🟡 File bozza condiviso — meeting 28/05 ore 17:00 |
+
+**27/05/2026**: Paolo Laurito ha condiviso il file master del report mensile di new business **integrato Uniting + Next Different**:
+- File bozza con schema di base, da sviluppare insieme
+- Meeting: **giovedì 28 maggio 2026 ore 17:00-18:00** "New business review - report" (Google Meet)
+- Partecipanti: Paolo Laurito, Marco Brandstetter, Francesco Bacchelli, Elisa Brancaleone
+
+**Next step**: Marco partecipa al meeting 28/05 ore 17:00 per sviluppare lo schema del report integrato.
+
+---
+
+## Standardizzazione Flusso Presentazioni (PLAUD 27/05/2026)
+
+| Campo | Valore |
+|-------|--------|
+| Emerso da | PLAUD riunione coordinamento mattutina 27/05 |
+| Speaker con frustrazione | Membro NDU a Bologna (presso Valsoia) |
+| Impattati | Frassinelli (Roberto), Roberto |
+| Stato | 🔴 Problema aperto — nessun accordo raggiunto |
+
+**Problema identificato**: Il processo di condivisione presentazioni tra team NDU è inefficiente:
+- Scambio continuo di file avanti e indietro ("ti mando i dati, me li rimandi, te li rimando")
+- Genera confusione e perdita di tempo per tutti i coinvolti
+- Frassinelli aveva già ricevuto una versione della presentazione rimmandata
+
+**Azioni aperte**:
+- [ ] Definire e concordare un unico flusso di condivisione presentazioni (strumento, formato, responsabilità)
+- [ ] Confermare ricezione versione finale presentazione da Frassinelli
+- [ ] Allinearsi con Roberto sul nuovo processo
+- [ ] Verificare setup tecnico per condivisione schermo (Chrome/Spark)
+
+---
+
 ## Fonte
 `JarvisNEXT/knowledge-base/06_OPERATIONS/modelli-business.md`
 `ndu/raw/email/2026-05-20_iso-27001-disponibilita-marco.md`
