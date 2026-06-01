@@ -14,6 +14,9 @@ aggiornato: 2026-06-02
 ## BU Data & Retail
 - [bu_data_retail.md](bu_data_retail.md) — team, numeri chiave, prodotti BU
 - [business_data_ai.md](business_data_ai.md) — ★ linea di business AI Data Access Platform (pivot DaaS-AI)
+- [business_data_ai_fruizione.md](business_data_ai_fruizione.md) — ★ modalità di fruizione (canali, output, MVP, stack tecnico)
+- [data_hub_agent.md](data_hub_agent.md) — ★ orchestratore dati retail media (prototipo 15 schermate HTML, connettori multi-retailer)
+- [strategia_board_2026.md](strategia_board_2026.md) — ★ piano strategico Board 2026-2028 (mercato, posizionamento, M&A €8-15M)
 - [pipeline.md](pipeline.md) — pipeline commerciale attiva (dati al 01/04/2026)
 - [budget_2026.md](budget_2026.md) — budget completo 2026: 112 offerte, 6.27M EUR, 17 deal vinti
 

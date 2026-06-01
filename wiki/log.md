@@ -186,6 +186,45 @@ aggiornato: 2026-06-02
 - [UPDATE] `index.md` — aggiunta sezioni Tecnico espanse + Operations dettagliate + `rfp_library.md`
 - Fonte: `JarvisNEXT/knowledge-base/` (14 file MD, 2.680 righe totali)
 
+## 2026-05-15 — INGEST Data Hub Agent + Strategia Board 2026
+
+- Creata pagina [data_hub_agent.md](data_hub_agent.md) — orchestratore dati retail media
+  - Fonte: `JarvisNEXT/materiale/retail-media-dashboard/` (15 schermate HTML, Apr 2026)
+  - Schermata 11 = cuore: ingestion + normalizzazione + QC + distribution
+  - Connettori multi-retailer documentati: Carrefour API, Conad email parser, Coop SFTP, Brico io upload, Esselunga webhook, Eurospin pending, ISEN sensoristica, agenzia offsite
+  - AI agent: auto-detection formato, mapping schema cross-retailer, alerting anomalie
+  - Mapping al modello DaaS-AI: questo prodotto = §5.D AI Retail Intelligence backend
+  - Gap to production: 12-16 settimane con team dedicato
+  - Allegato `Barilla_RetailMedia_NextStep_Pitch.pptx` (18MB) come pitch dedicato
+- Creata pagina [strategia_board_2026.md](strategia_board_2026.md) — piano strategico Board 2026-2028
+  - Fonte: `JarvisNEXT/materiale/piano-strategico-data-retail-2026/STRATEGIA_BU_DATA_RETAIL_BOARD_2026.md` (748 righe, 01/04/2026)
+  - Mercato Italia retail media: €640M→€810M (2026E)→€1mld+ (2028E), CAGR 27%
+  - In-store = sleeping giant (5% valore, 90% vendite)
+  - Italia frammentata (top 5 = 57%) vs Francia (84%) — opportunità per aggregatore
+  - Posizionamento ND: 4/6 anelli catena valore (forte consulenza/content/data, debole CMS/inventory)
+  - 3 assi sviluppo: Piattaforma, Concessionaria, System Integration
+  - M&A Combo €8-15M: Livesignage (CMS) + Immedya (network) + ARGO Vision (CV/AI)
+  - Target 2028: revenue BU €550K → €3-5M
+  - Allegati: Strategia_Board.pptx (5.7MB), RetailMedia_Board.pptx/pdf, Video board mp4, podcast wav, 28 slide JPG
+- Aggiornato [business_data_ai.md](business_data_ai.md):
+  - §1 arricchita con numeri mercato reali (€810M 2026E, sleeping giant in-store)
+  - §5.D (AI Retail Intelligence) collegato a Data Hub Agent come backend già esistente
+  - Riferimenti estesi a data_hub_agent + strategia_board_2026
+- Aggiornato index.md con 2 nuove pagine sotto BU Data & Retail
+
+## 2026-05-15 — Strategia BU Data & Retail (fruizione)
+
+- Creata pagina [business_data_ai_fruizione.md](business_data_ai_fruizione.md) — modalità di fruizione AI Data Access Platform
+  - 7 canali accesso: Web App, Plugin AI (Claude/ChatGPT/Gemini/Copilot/Cursor), MCP server, REST API, Embedded widget, Workflow n8n/Make, Voice/WhatsApp
+  - 9 forme output (testo, tabella, mappa, grafico, audience export, PDF/PPTX, dashboard, webhook, embed)
+  - 4 tier freshness dato (Standard T+1, Near real-time 15min, Real-time streaming, Forecast)
+  - Matrice canale × tier STARTER/PROFESSIONAL/ENTERPRISE
+  - Stack tecnico mappato (LLM, vector store, MCP runtime, billing meter)
+  - MVP consigliato: Web App + MCP + Plugin Claude/ChatGPT + REST API + n8n
+  - 6 domande aperte (build vs partner, naming, hosting, pricing crediti)
+- Aggiornato [business_data_ai.md](business_data_ai.md) con link a documento companion
+- Aggiornato index.md
+
 ## 2026-05-15 — Strategia BU Data & Retail
 
 - Creata pagina [business_data_ai.md](business_data_ai.md) — documento strategico interno "AI Data Access Platform"
